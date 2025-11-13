@@ -1,11 +1,89 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Donate with MetaMask</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ETH Staking Optimizer – Donate</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, sans-serif;
+      background: #0a0a0a;
+      color: #f1f1f1;
+      margin: 0;
+      padding: 40px 20px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 750px;
+      margin: 0 auto;
+      background: #141414;
+      border: 1px solid #222;
+      border-radius: 12px;
+      padding: 30px 40px;
+      box-shadow: 0 0 18px rgba(0,0,0,0.4);
+    }
+    h1, h2 {
+      text-align: center;
+      color: #70d6ff;
+    }
+    h2 {
+      margin-top: 40px;
+      font-size: 1.3em;
+      color: #9be7ff;
+    }
+    button {
+      display: block;
+      margin: 30px auto;
+      background: linear-gradient(90deg, #6a00f4, #00c3ff);
+      color: white;
+      border: none;
+      padding: 14px 26px;
+      border-radius: 8px;
+      font-size: 1.1em;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    button:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 14px rgba(0, 195, 255, 0.5);
+    }
+    a.eth {
+      color: #70d6ff;
+      word-break: break-all;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      margin-top: 40px;
+      color: #aaa;
+    }
+  </style>
 </head>
 <body>
-  <h1>Donate 0.01 ETH</h1>
-  <button id="donateBtn">Send Donation</button>
+  <div class="container">
+    <h1> ETH Staking Optimizer</h1>
+    <p>
+      The <strong>ETH Staking Optimizer</strong> helps users discover the most efficient and transparent ETH staking yields in real time.
+      It automatically scans verified DeFi protocols (via DefiLlama and on-chain data), filters noise, and surfaces the <strong>best risk-adjusted APYs</strong> available across Ethereum-based staking pools. 
+    </p>
+
+    <h2>🧠 Why It Matters</h2>
+    <p>
+      The ETH yield landscape changes daily. This project bridges the gap, giving every holder institutional-level visibility into where Ethereum earns best right now — without ads, logins, or tracking.
+    </p>
+
+    <h2>💜 Support the Project</h2>
+    <p>
+      This open-source tool runs with no fees or telemetry. If it helps you find better yields or save gas, consider supporting ongoing development.
+      Every 0.01 ETH donation helps cover hosting, live data feeds, and future integrations.
+    </p>
+
+    <button id="donateBtn">💰 Send 0.01 ETH via MetaMask</button>
+
+ 
+
+    <footer>Built with ❤️ for the Ethereum community · Open Source Initiative</footer>
+  </div>
 
   <script>
     async function donateWithMetaMask() {

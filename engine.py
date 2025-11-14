@@ -17,7 +17,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler("backend/engine.log"),
+        logging.FileHandler("engine.log"),
         logging.StreamHandler(sys.stdout)
     ]
 )

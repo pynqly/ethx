@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-11-14T06:14:19.536110+00:00",
-  "eth_price_usd": 3171.36,
+  "timestamp": "2025-11-14T12:17:17.152825+00:00",
+  "eth_price_usd": 3120.41,
   "gas_gwei": 50.0,
   "gas_eth": 0.0105,
   "user_eth_amount": 1.0,
@@ -8,7 +8,7 @@
     {
       "protocol": "y2k-v1",
       "symbol": "WETH",
-      "tvlUsd": 18091,
+      "tvlUsd": 18189,
       "base_apy": 639.57993,
       "net_apy": 639.56943,
       "url": "https://defillama.com/yields/pool/aceb3afd-bc4d-43f2-88f1-78deddd761da"
@@ -24,42 +24,58 @@
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 10131,
-      "base_apy": 42.21686,
-      "net_apy": 42.20636,
+      "tvlUsd": 10176,
+      "base_apy": 42.21724,
+      "net_apy": 42.20674,
       "url": "https://defillama.com/yields/pool/78bd47b4-1a43-464b-a93e-e576171ed922"
     },
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 23359,
-      "base_apy": 35.13322,
-      "net_apy": 35.12272,
+      "tvlUsd": 23695,
+      "base_apy": 35.13347,
+      "net_apy": 35.12297,
       "url": "https://defillama.com/yields/pool/21cf4bda-cc72-4ead-ae70-37c0efcc91f7"
     },
     {
       "protocol": "impermax-v3",
       "symbol": "WETH",
-      "tvlUsd": 240153,
-      "base_apy": 25.55427,
-      "net_apy": 25.54377,
-      "url": "https://defillama.com/yields/pool/b55cfb5c-100c-4be6-80dd-2746c89dc82d"
-    },
-    {
-      "protocol": "impermax-v3",
-      "symbol": "WETH",
-      "tvlUsd": 10507,
-      "base_apy": 23.45768,
-      "net_apy": 23.44718,
+      "tvlUsd": 11264,
+      "base_apy": 28.88508,
+      "net_apy": 28.87458,
       "url": "https://defillama.com/yields/pool/10732102-179d-404a-85d2-15e07adda210"
     },
     {
       "protocol": "impermax-v3",
       "symbol": "WETH",
-      "tvlUsd": 26555,
-      "base_apy": 23.31572,
-      "net_apy": 23.30522,
+      "tvlUsd": 26088,
+      "base_apy": 28.56616,
+      "net_apy": 28.55566,
       "url": "https://defillama.com/yields/pool/59e9dd78-8947-494b-874a-b2c522127074"
+    },
+    {
+      "protocol": "impermax-v3",
+      "symbol": "WETH",
+      "tvlUsd": 241663,
+      "base_apy": 27.42264,
+      "net_apy": 27.41214,
+      "url": "https://defillama.com/yields/pool/b55cfb5c-100c-4be6-80dd-2746c89dc82d"
+    },
+    {
+      "protocol": "euler-v2",
+      "symbol": "WETH",
+      "tvlUsd": 47452,
+      "base_apy": 24.66899,
+      "net_apy": 24.65849,
+      "url": "https://defillama.com/yields/pool/6e6a55a1-525a-4bc9-8e79-96ee1015b0b7"
+    },
+    {
+      "protocol": "nabla-finance",
+      "symbol": "WETH",
+      "tvlUsd": 96497,
+      "base_apy": 22.51431,
+      "net_apy": 22.50381,
+      "url": "https://defillama.com/yields/pool/d25ea11f-6ef6-4321-9a86-5b670b812fa2"
     },
     {
       "protocol": "peapods-finance",
@@ -70,43 +86,27 @@
       "url": "https://defillama.com/yields/pool/6500620a-246b-462f-baef-9a2e9a6093a4"
     },
     {
-      "protocol": "nabla-finance",
-      "symbol": "WETH",
-      "tvlUsd": 95628,
-      "base_apy": 19.26022,
-      "net_apy": 19.24972,
-      "url": "https://defillama.com/yields/pool/d25ea11f-6ef6-4321-9a86-5b670b812fa2"
-    },
-    {
       "protocol": "peapods-finance",
       "symbol": "WETH",
-      "tvlUsd": 173587,
-      "base_apy": 18.55474,
-      "net_apy": 18.54424,
+      "tvlUsd": 174669,
+      "base_apy": 18.55531,
+      "net_apy": 18.54481,
       "url": "https://defillama.com/yields/pool/52ca4394-9c57-454f-9a9a-893f59a99135"
     },
     {
       "protocol": "sandclock",
       "symbol": "WETH",
-      "tvlUsd": 124680,
-      "base_apy": 15.40112,
-      "net_apy": 15.39062,
+      "tvlUsd": 122650,
+      "base_apy": 15.40542,
+      "net_apy": 15.39492,
       "url": "https://defillama.com/yields/pool/4fd20348-641d-4d84-9559-689106907ecc"
-    },
-    {
-      "protocol": "gearbox",
-      "symbol": "WETH",
-      "tvlUsd": 603247,
-      "base_apy": 14.88338,
-      "net_apy": 14.87288,
-      "url": "https://defillama.com/yields/pool/363603d7-5715-4db3-a433-7f58b8946d4c"
     },
     {
       "protocol": "singularity-finance",
       "symbol": "WETH",
-      "tvlUsd": 26225,
-      "base_apy": 12.93569,
-      "net_apy": 12.92519,
+      "tvlUsd": 26179,
+      "base_apy": 12.64627,
+      "net_apy": 12.63577,
       "url": "https://defillama.com/yields/pool/60478f00-4529-4470-8036-cb6a2992aee6"
     },
     {
@@ -118,76 +118,68 @@
       "url": "https://defillama.com/yields/pool/31d4470a-701d-497e-9669-eebb5fe0ffb7"
     },
     {
-      "protocol": "euler-v2",
+      "protocol": "gearbox",
       "symbol": "WETH",
-      "tvlUsd": 130574,
-      "base_apy": 10.97016,
-      "net_apy": 10.95966,
-      "url": "https://defillama.com/yields/pool/6e6a55a1-525a-4bc9-8e79-96ee1015b0b7"
+      "tvlUsd": 836215,
+      "base_apy": 11.39726,
+      "net_apy": 11.38676,
+      "url": "https://defillama.com/yields/pool/363603d7-5715-4db3-a433-7f58b8946d4c"
     },
     {
       "protocol": "stream-finance",
       "symbol": "WETH",
-      "tvlUsd": 13542868,
+      "tvlUsd": 13619753,
       "base_apy": 10.13,
       "net_apy": 10.1195,
       "url": "https://defillama.com/yields/pool/24b3096a-488d-4a61-afa6-e5e9be2ce4bf"
     },
     {
-      "protocol": "kinetic",
-      "symbol": "WETH",
-      "tvlUsd": 3305239,
-      "base_apy": 9.2307,
-      "net_apy": 9.2202,
-      "url": "https://defillama.com/yields/pool/477f1419-4c04-4f1e-a35e-1b200da694f1"
-    },
-    {
       "protocol": "vesper",
       "symbol": "ETH",
-      "tvlUsd": 6211744,
-      "base_apy": 8.91,
-      "net_apy": 8.8995,
+      "tvlUsd": 6261126,
+      "base_apy": 9.61,
+      "net_apy": 9.5995,
       "url": "https://defillama.com/yields/pool/359dd5cd-67a6-4f6a-83db-1edb301637e7"
     },
     {
+      "protocol": "kinetic",
+      "symbol": "WETH",
+      "tvlUsd": 3350433,
+      "base_apy": 9.16241,
+      "net_apy": 9.15191,
+      "url": "https://defillama.com/yields/pool/477f1419-4c04-4f1e-a35e-1b200da694f1"
+    },
+    {
       "protocol": "peapods-finance",
       "symbol": "WETH",
-      "tvlUsd": 34794,
-      "base_apy": 8.82673,
-      "net_apy": 8.81623,
+      "tvlUsd": 35127,
+      "base_apy": 8.75157,
+      "net_apy": 8.74107,
       "url": "https://defillama.com/yields/pool/90e53c3c-b77e-49b1-b62e-d323f0212a41"
     },
     {
-      "protocol": "fluid-lite",
-      "symbol": "ETH",
-      "tvlUsd": 212679745,
-      "base_apy": 7.97095,
-      "net_apy": 7.96045,
-      "url": "https://defillama.com/yields/pool/e72916f7-a2d1-47ad-a4b9-2b054337cfd6"
-    },
-    {
       "protocol": "peapods-finance",
       "symbol": "WETH",
-      "tvlUsd": 45072,
-      "base_apy": 7.95348,
-      "net_apy": 7.94298,
+      "tvlUsd": 45272,
+      "base_apy": 7.95367,
+      "net_apy": 7.94317,
       "url": "https://defillama.com/yields/pool/170bf7ce-448f-4cfd-aecf-e89bce578693"
     },
     {
       "protocol": "ipor-fusion",
       "symbol": "WETH",
-      "tvlUsd": 252000,
-      "base_apy": 7.92595,
-      "net_apy": 7.91545,
+      "tvlUsd": 245577,
+      "base_apy": 7.72453,
+      "net_apy": 7.71403,
       "url": "https://defillama.com/yields/pool/f0c38e46-62ba-41c1-a7b1-396d48a6c11f"
     },
     {
-      "protocol": "ipor-fusion",
-      "symbol": "WETH",
-      "tvlUsd": 1364291,
-      "base_apy": 7.85362,
-      "net_apy": 7.84312,
-      "url": "https://defillama.com/yields/pool/d6d867cc-b0bf-4d57-bef5-9b553e8f4ae3"
+      "protocol": "fluid-lite",
+      "symbol": "ETH",
+      "tvlUsd": 212681449,
+      "base_apy": 7.69903,
+      "net_apy": 7.68853,
+      "url": "https://defillama.com/yields/pool/e72916f7-a2d1-47ad-a4b9-2b054337cfd6"
     },
     {
       "protocol": "impermax-v3",
@@ -200,7 +192,7 @@
     {
       "protocol": "ribbon",
       "symbol": "ETH",
-      "tvlUsd": 2375892,
+      "tvlUsd": 2323934,
       "base_apy": 7.52842,
       "net_apy": 7.51792,
       "url": "https://defillama.com/yields/pool/4f5f8c55-1237-4934-8a71-aacd40cd41ae"
@@ -209,126 +201,118 @@
       "protocol": "morpho-v0-aavev2",
       "symbol": "WETH",
       "tvlUsd": 87183,
-      "base_apy": 7.12078,
-      "net_apy": 7.11028,
+      "base_apy": 7.09862,
+      "net_apy": 7.08812,
       "url": "https://defillama.com/yields/pool/7be52986-18c2-450f-b74b-d65fb1205bbf"
     },
     {
       "protocol": "wasabi",
       "symbol": "WETH",
-      "tvlUsd": 5175881,
-      "base_apy": 6.76298,
-      "net_apy": 6.75248,
+      "tvlUsd": 5164350,
+      "base_apy": 6.75062,
+      "net_apy": 6.74012,
       "url": "https://defillama.com/yields/pool/8652348d-e54d-4817-b6a8-736a3456c1a3"
+    },
+    {
+      "protocol": "wasabi",
+      "symbol": "WETH",
+      "tvlUsd": 1275437,
+      "base_apy": 6.61877,
+      "net_apy": 6.60827,
+      "url": "https://defillama.com/yields/pool/207bb181-a4e2-49b1-a506-d79eaa443599"
     },
     {
       "protocol": "lodestar-v1",
       "symbol": "WETH",
-      "tvlUsd": 62578,
-      "base_apy": 6.1119,
-      "net_apy": 6.1014,
+      "tvlUsd": 62915,
+      "base_apy": 6.27083,
+      "net_apy": 6.26033,
       "url": "https://defillama.com/yields/pool/45521002-bf35-43d9-905a-5ca460588ad4"
+    },
+    {
+      "protocol": "yearn-finance",
+      "symbol": "WETH",
+      "tvlUsd": 2483336,
+      "base_apy": 6.15441,
+      "net_apy": 6.14391,
+      "url": "https://defillama.com/yields/pool/df317389-a9ad-4a8a-8a9f-c0724beaf587"
+    },
+    {
+      "protocol": "harvest-finance",
+      "symbol": "ETH",
+      "tvlUsd": 293775,
+      "base_apy": 6.14,
+      "net_apy": 6.1295,
+      "url": "https://defillama.com/yields/pool/f52fcbc6-88a8-42b0-965e-563f1d1e52da"
     },
     {
       "protocol": "bakerfi",
       "symbol": "ETH",
-      "tvlUsd": 17413,
-      "base_apy": 5.91325,
-      "net_apy": 5.90275,
+      "tvlUsd": 17408,
+      "base_apy": 5.96367,
+      "net_apy": 5.95317,
       "url": "https://defillama.com/yields/pool/60b7012b-a311-4596-8469-326c3ee8bf34"
-    },
-    {
-      "protocol": "troves",
-      "symbol": "ETH",
-      "tvlUsd": 52059,
-      "base_apy": 5.91212,
-      "net_apy": 5.90162,
-      "url": "https://defillama.com/yields/pool/ce7296fb-bf96-452d-bdd6-5d6b81aa463e"
-    },
-    {
-      "protocol": "harvest-finance",
-      "symbol": "ETH",
-      "tvlUsd": 297695,
-      "base_apy": 5.81,
-      "net_apy": 5.7995,
-      "url": "https://defillama.com/yields/pool/f52fcbc6-88a8-42b0-965e-563f1d1e52da"
-    },
-    {
-      "protocol": "harvest-finance",
-      "symbol": "ETH",
-      "tvlUsd": 490612,
-      "base_apy": 5.72,
-      "net_apy": 5.7095,
-      "url": "https://defillama.com/yields/pool/17f9640f-6655-45bf-a6ac-3ccb321d65ca"
     },
     {
       "protocol": "ipor-fusion",
       "symbol": "WETH",
-      "tvlUsd": 5248458,
-      "base_apy": 5.65638,
-      "net_apy": 5.64588,
+      "tvlUsd": 5159108,
+      "base_apy": 5.75451,
+      "net_apy": 5.74401,
       "url": "https://defillama.com/yields/pool/8f27e6d6-1d14-4611-8ea6-51482d0921ef"
     },
     {
       "protocol": "bracket-vaults",
       "symbol": "WETH",
-      "tvlUsd": 848471,
+      "tvlUsd": 853288,
       "base_apy": 5.63,
       "net_apy": 5.6195,
       "url": "https://defillama.com/yields/pool/1e4f8d85-11dd-4dbe-a1a9-7edf0fc5a58f"
     },
     {
-      "protocol": "wasabi",
-      "symbol": "WETH",
-      "tvlUsd": 1272240,
-      "base_apy": 5.61456,
-      "net_apy": 5.60406,
-      "url": "https://defillama.com/yields/pool/207bb181-a4e2-49b1-a506-d79eaa443599"
-    },
-    {
       "protocol": "folks-finance-xchain",
       "symbol": "WETH",
-      "tvlUsd": 345922,
-      "base_apy": 5.52776,
-      "net_apy": 5.51726,
+      "tvlUsd": 349383,
+      "base_apy": 5.46441,
+      "net_apy": 5.45391,
       "url": "https://defillama.com/yields/pool/7907c960-24ef-47ad-a873-58c46b8816a3"
     },
     {
       "protocol": "ionic-protocol",
       "symbol": "WETH",
-      "tvlUsd": 28608,
-      "base_apy": 5.40332,
-      "net_apy": 5.39282,
+      "tvlUsd": 28789,
+      "base_apy": 5.40335,
+      "net_apy": 5.39285,
       "url": "https://defillama.com/yields/pool/986480ad-1e2a-4e08-a693-5a58d003c285"
-    },
-    {
-      "protocol": "autofinance",
-      "symbol": "WETH",
-      "tvlUsd": 35896687,
-      "base_apy": 5.36841,
-      "net_apy": 5.35791,
-      "url": "https://defillama.com/yields/pool/e9a686bf-21ed-4f78-82be-cd32625c4725"
-    },
-    {
-      "protocol": "gearbox",
-      "symbol": "WETH",
-      "tvlUsd": 1585254,
-      "base_apy": 5.29397,
-      "net_apy": 5.28347,
-      "url": "https://defillama.com/yields/pool/5d06dfea-61f8-4807-a148-bff73c059092"
     },
     {
       "protocol": "woofi-earn",
       "symbol": "ETH",
-      "tvlUsd": 942080,
-      "base_apy": 5.24002,
-      "net_apy": 5.22952,
+      "tvlUsd": 942041,
+      "base_apy": 5.23574,
+      "net_apy": 5.22524,
       "url": "https://defillama.com/yields/pool/dfbdb08e-3327-4f1c-80cb-3fa8546b0fbb"
+    },
+    {
+      "protocol": "yearn-finance",
+      "symbol": "WETH",
+      "tvlUsd": 3102107,
+      "base_apy": 5.15498,
+      "net_apy": 5.14448,
+      "url": "https://defillama.com/yields/pool/7df4c62f-7851-43d9-9d9f-f0c5bf9cec32"
+    },
+    {
+      "protocol": "gearbox",
+      "symbol": "WETH",
+      "tvlUsd": 1594253,
+      "base_apy": 5.12298,
+      "net_apy": 5.11248,
+      "url": "https://defillama.com/yields/pool/5d06dfea-61f8-4807-a148-bff73c059092"
     },
     {
       "protocol": "gmd-protocol",
       "symbol": "ETH",
-      "tvlUsd": 170534,
+      "tvlUsd": 170362,
       "base_apy": 5.1143,
       "net_apy": 5.1038,
       "url": "https://defillama.com/yields/pool/aa604c73-abba-4d1a-9ab7-fdb02360b1d1"
@@ -336,31 +320,15 @@
     {
       "protocol": "woofi-earn",
       "symbol": "ETH",
-      "tvlUsd": 214664,
-      "base_apy": 5.10429,
-      "net_apy": 5.09379,
+      "tvlUsd": 214665,
+      "base_apy": 5.10487,
+      "net_apy": 5.09437,
       "url": "https://defillama.com/yields/pool/754f3fee-0ab4-4261-be2d-07e8ac9396b2"
-    },
-    {
-      "protocol": "autofinance",
-      "symbol": "WETH",
-      "tvlUsd": 1304591,
-      "base_apy": 5.01199,
-      "net_apy": 5.00149,
-      "url": "https://defillama.com/yields/pool/fb969501-889f-4cab-b9b5-dfd67d9e298d"
-    },
-    {
-      "protocol": "yearn-finance",
-      "symbol": "WETH",
-      "tvlUsd": 2265843,
-      "base_apy": 4.98113,
-      "net_apy": 4.97063,
-      "url": "https://defillama.com/yields/pool/df317389-a9ad-4a8a-8a9f-c0724beaf587"
     },
     {
       "protocol": "yo-protocol",
       "symbol": "WETH",
-      "tvlUsd": 22319490,
+      "tvlUsd": 22408479,
       "base_apy": 4.94541,
       "net_apy": 4.93491,
       "url": "https://defillama.com/yields/pool/2070ceaf-eedb-4795-9ede-6841ec515e1a"
@@ -368,71 +336,79 @@
     {
       "protocol": "sturdy-v2",
       "symbol": "WETH",
-      "tvlUsd": 118419,
+      "tvlUsd": 118160,
       "base_apy": 4.8865,
       "net_apy": 4.876,
       "url": "https://defillama.com/yields/pool/181a931c-d852-4066-b9f2-137b06eeb5e6"
     },
     {
+      "protocol": "autofinance",
+      "symbol": "WETH",
+      "tvlUsd": 1282231,
+      "base_apy": 4.79971,
+      "net_apy": 4.78921,
+      "url": "https://defillama.com/yields/pool/fb969501-889f-4cab-b9b5-dfd67d9e298d"
+    },
+    {
       "protocol": "echelon-market",
       "symbol": "WETH",
-      "tvlUsd": 129542,
-      "base_apy": 4.7191,
-      "net_apy": 4.7086,
+      "tvlUsd": 130690,
+      "base_apy": 4.78118,
+      "net_apy": 4.77068,
       "url": "https://defillama.com/yields/pool/27a06e54-994f-421c-aacf-818413605cf3"
     },
     {
       "protocol": "peapods-finance",
       "symbol": "WETH",
-      "tvlUsd": 47195,
-      "base_apy": 4.60097,
-      "net_apy": 4.59047,
+      "tvlUsd": 47099,
+      "base_apy": 4.64718,
+      "net_apy": 4.63668,
       "url": "https://defillama.com/yields/pool/d57648bb-0cb0-44f7-891d-da09ed2bd790"
     },
     {
       "protocol": "vesu",
       "symbol": "ETH",
-      "tvlUsd": 2791613,
-      "base_apy": 4.56163,
-      "net_apy": 4.55113,
+      "tvlUsd": 2813308,
+      "base_apy": 4.55688,
+      "net_apy": 4.54638,
       "url": "https://defillama.com/yields/pool/d7fbc577-7e22-4a9a-b0dd-601ad50c0a0a"
     },
     {
       "protocol": "size-credit",
       "symbol": "WETH",
-      "tvlUsd": 1071621,
-      "base_apy": 4.3418,
-      "net_apy": 4.3313,
+      "tvlUsd": 1071538,
+      "base_apy": 4.24036,
+      "net_apy": 4.22986,
       "url": "https://defillama.com/yields/pool/70d0524f-7a43-44be-8816-5d25d33ecd63"
-    },
-    {
-      "protocol": "yearn-finance",
-      "symbol": "WETH",
-      "tvlUsd": 3115695,
-      "base_apy": 4.25353,
-      "net_apy": 4.24303,
-      "url": "https://defillama.com/yields/pool/7df4c62f-7851-43d9-9d9f-f0c5bf9cec32"
     },
     {
       "protocol": "bakerfi",
       "symbol": "ETH",
-      "tvlUsd": 91584,
-      "base_apy": 4.13587,
-      "net_apy": 4.12537,
+      "tvlUsd": 91386,
+      "base_apy": 4.13249,
+      "net_apy": 4.12199,
       "url": "https://defillama.com/yields/pool/ab0402fd-9786-4df1-8bdf-2833f0d6ddb9"
     },
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 23553635,
-      "base_apy": 4.13435,
-      "net_apy": 4.12385,
+      "tvlUsd": 24292733,
+      "base_apy": 4.00589,
+      "net_apy": 3.99539,
       "url": "https://defillama.com/yields/pool/40a5252b-305d-495a-9582-664a09ef2dc5"
+    },
+    {
+      "protocol": "bakerfi",
+      "symbol": "ETH",
+      "tvlUsd": 14367,
+      "base_apy": 3.87324,
+      "net_apy": 3.86274,
+      "url": "https://defillama.com/yields/pool/ce1ddcdf-9830-4c13-8742-1b427f24ddba"
     },
     {
       "protocol": "vesu",
       "symbol": "ETH",
-      "tvlUsd": 1369327,
+      "tvlUsd": 1369957,
       "base_apy": 3.82419,
       "net_apy": 3.81369,
       "url": "https://defillama.com/yields/pool/c542c7f1-c9d6-4e4f-b90c-5bc167d93514"
@@ -440,7 +416,7 @@
     {
       "protocol": "vesu",
       "symbol": "ETH",
-      "tvlUsd": 314060,
+      "tvlUsd": 314364,
       "base_apy": 3.82384,
       "net_apy": 3.81334,
       "url": "https://defillama.com/yields/pool/9a42e45e-17a1-4c42-8bd9-f30a36d68ed5"
@@ -448,7 +424,7 @@
     {
       "protocol": "vesu",
       "symbol": "ETH",
-      "tvlUsd": 22757,
+      "tvlUsd": 22768,
       "base_apy": 3.82384,
       "net_apy": 3.81334,
       "url": "https://defillama.com/yields/pool/bdc5ef2f-b762-4fb6-93f4-d96809a9ad4e"
@@ -456,7 +432,7 @@
     {
       "protocol": "vesu",
       "symbol": "ETH",
-      "tvlUsd": 20290,
+      "tvlUsd": 20300,
       "base_apy": 3.82384,
       "net_apy": 3.81334,
       "url": "https://defillama.com/yields/pool/5377f0e0-5ee5-49cd-b81a-da7231fbb372"
@@ -464,135 +440,127 @@
     {
       "protocol": "vesu",
       "symbol": "ETH",
-      "tvlUsd": 12227,
+      "tvlUsd": 12233,
       "base_apy": 3.82384,
       "net_apy": 3.81334,
       "url": "https://defillama.com/yields/pool/06368474-1ad1-44da-8e17-0f2ada3f32ef"
     },
     {
-      "protocol": "bakerfi",
-      "symbol": "ETH",
-      "tvlUsd": 14398,
-      "base_apy": 3.79845,
-      "net_apy": 3.78795,
-      "url": "https://defillama.com/yields/pool/ce1ddcdf-9830-4c13-8742-1b427f24ddba"
-    },
-    {
       "protocol": "nostra-money-market",
       "symbol": "ETH",
-      "tvlUsd": 10672931,
-      "base_apy": 3.79093,
-      "net_apy": 3.78043,
+      "tvlUsd": 10800476,
+      "base_apy": 3.79085,
+      "net_apy": 3.78035,
       "url": "https://defillama.com/yields/pool/af241622-7d27-4afe-98cb-53dfef00e0c4"
     },
     {
       "protocol": "extra-finance-xlend",
       "symbol": "WETH",
-      "tvlUsd": 241320,
-      "base_apy": 3.50994,
-      "net_apy": 3.49944,
+      "tvlUsd": 251716,
+      "base_apy": 3.4029,
+      "net_apy": 3.3924,
       "url": "https://defillama.com/yields/pool/201dab71-ef7f-47c7-ba7a-b62868df9d37"
-    },
-    {
-      "protocol": "harvest-finance",
-      "symbol": "ETH",
-      "tvlUsd": 122678,
-      "base_apy": 3.38,
-      "net_apy": 3.3695,
-      "url": "https://defillama.com/yields/pool/d5005e18-ffab-4d37-8676-1bbb20985d01"
-    },
-    {
-      "protocol": "harvest-finance",
-      "symbol": "ETH",
-      "tvlUsd": 616245,
-      "base_apy": 3.32,
-      "net_apy": 3.3095,
-      "url": "https://defillama.com/yields/pool/a23b98d3-1c9d-4458-80ab-e4b200532ca3"
     },
     {
       "protocol": "extra-finance-leverage-farming",
       "symbol": "WETH",
-      "tvlUsd": 370632,
-      "base_apy": 3.16744,
-      "net_apy": 3.15694,
+      "tvlUsd": 370077,
+      "base_apy": 3.17694,
+      "net_apy": 3.16644,
       "url": "https://defillama.com/yields/pool/b53f5aab-3047-4bd7-afde-2ee5a91bc2e3"
     },
     {
       "protocol": "deltaprime",
       "symbol": "WETH",
-      "tvlUsd": 238984,
-      "base_apy": 3.15839,
-      "net_apy": 3.14789,
+      "tvlUsd": 240278,
+      "base_apy": 3.15852,
+      "net_apy": 3.14802,
       "url": "https://defillama.com/yields/pool/877ad94d-4acd-4e19-8ebd-aa1575d08d00"
+    },
+    {
+      "protocol": "ipor-fusion",
+      "symbol": "WETH",
+      "tvlUsd": 1341174,
+      "base_apy": 3.13247,
+      "net_apy": 3.12197,
+      "url": "https://defillama.com/yields/pool/d6d867cc-b0bf-4d57-bef5-9b553e8f4ae3"
+    },
+    {
+      "protocol": "across",
+      "symbol": "WETH",
+      "tvlUsd": 19946027,
+      "base_apy": 3.11681,
+      "net_apy": 3.10631,
+      "url": "https://defillama.com/yields/pool/5f92620a-e60b-4871-baee-1e47cb074764"
     },
     {
       "protocol": "extra-finance-xlend",
       "symbol": "WETH",
-      "tvlUsd": 272791,
-      "base_apy": 3.11299,
-      "net_apy": 3.10249,
+      "tvlUsd": 271072,
+      "base_apy": 3.09557,
+      "net_apy": 3.08507,
       "url": "https://defillama.com/yields/pool/54392a64-2165-47a2-b08e-88dd61b8768c"
     },
     {
       "protocol": "peapods-finance",
       "symbol": "WETH",
-      "tvlUsd": 30653,
-      "base_apy": 3.07594,
-      "net_apy": 3.06544,
+      "tvlUsd": 30841,
+      "base_apy": 3.07601,
+      "net_apy": 3.06551,
       "url": "https://defillama.com/yields/pool/c8cd4461-268e-4e95-8565-91031a63e1aa"
     },
     {
       "protocol": "stake-dao",
       "symbol": "WETH",
-      "tvlUsd": 685638,
-      "base_apy": 3.04325,
-      "net_apy": 3.03275,
+      "tvlUsd": 675593,
+      "base_apy": 3.01659,
+      "net_apy": 3.00609,
       "url": "https://defillama.com/yields/pool/33676b19-1e74-459c-8fa1-1294ae8ff303"
     },
     {
       "protocol": "wasabi",
       "symbol": "WETH",
-      "tvlUsd": 1040260,
+      "tvlUsd": 1039267,
       "base_apy": 3.01307,
       "net_apy": 3.00257,
       "url": "https://defillama.com/yields/pool/a35283b9-9e45-4317-96a1-30b66e141d0e"
     },
     {
-      "protocol": "across",
+      "protocol": "autofinance",
       "symbol": "WETH",
-      "tvlUsd": 19831578,
-      "base_apy": 2.95649,
-      "net_apy": 2.94599,
-      "url": "https://defillama.com/yields/pool/5f92620a-e60b-4871-baee-1e47cb074764"
-    },
-    {
-      "protocol": "yearn-finance",
-      "symbol": "WETH",
-      "tvlUsd": 74390,
-      "base_apy": 2.77547,
-      "net_apy": 2.76497,
-      "url": "https://defillama.com/yields/pool/510eade1-be2f-412b-9f2a-e47926cee73a"
+      "tvlUsd": 35896687,
+      "base_apy": 2.98125,
+      "net_apy": 2.97075,
+      "url": "https://defillama.com/yields/pool/e9a686bf-21ed-4f78-82be-cd32625c4725"
     },
     {
       "protocol": "stake-dao",
       "symbol": "WETH",
-      "tvlUsd": 116841,
-      "base_apy": 2.75803,
-      "net_apy": 2.74753,
+      "tvlUsd": 115129,
+      "base_apy": 2.76587,
+      "net_apy": 2.75537,
       "url": "https://defillama.com/yields/pool/580aa402-9c59-4fe6-81ff-51927e1ab766"
+    },
+    {
+      "protocol": "yearn-finance",
+      "symbol": "WETH",
+      "tvlUsd": 73712,
+      "base_apy": 2.7539,
+      "net_apy": 2.7434,
+      "url": "https://defillama.com/yields/pool/510eade1-be2f-412b-9f2a-e47926cee73a"
     },
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 43556,
-      "base_apy": 2.71623,
-      "net_apy": 2.70573,
+      "tvlUsd": 43751,
+      "base_apy": 2.7163,
+      "net_apy": 2.7058,
       "url": "https://defillama.com/yields/pool/143baf6f-154d-415c-8bb3-96e2a5aaf34f"
     },
     {
       "protocol": "smartcredit",
       "symbol": "ETH",
-      "tvlUsd": 287347,
+      "tvlUsd": 288690,
       "base_apy": 2.71,
       "net_apy": 2.6995,
       "url": "https://defillama.com/yields/pool/ef38be32-cee5-477e-b72f-49c6995edff4"
@@ -600,9 +568,9 @@
     {
       "protocol": "yearn-finance",
       "symbol": "WETH",
-      "tvlUsd": 74276,
-      "base_apy": 2.6358,
-      "net_apy": 2.6253,
+      "tvlUsd": 73586,
+      "base_apy": 2.61575,
+      "net_apy": 2.60525,
       "url": "https://defillama.com/yields/pool/d10acaf9-4c9c-4eb9-b73a-69eaaf2bf5c0"
     },
     {
@@ -614,59 +582,35 @@
       "url": "https://defillama.com/yields/pool/ffb846cd-bf30-444e-b533-30bf0121931d"
     },
     {
-      "protocol": "goat-protocol",
-      "symbol": "WETH",
-      "tvlUsd": 514160,
-      "base_apy": 2.55701,
-      "net_apy": 2.54651,
-      "url": "https://defillama.com/yields/pool/70228bc6-05f6-4687-a9f9-8d80c4e94b4c"
-    },
-    {
       "protocol": "extra-finance-leverage-farming",
       "symbol": "WETH",
-      "tvlUsd": 357708,
+      "tvlUsd": 355453,
       "base_apy": 2.55513,
       "net_apy": 2.54463,
       "url": "https://defillama.com/yields/pool/c833c18d-7d54-421a-bb80-174233be7568"
     },
     {
-      "protocol": "compound-v3",
-      "symbol": "ETH",
-      "tvlUsd": 19929686,
-      "base_apy": 2.53289,
-      "net_apy": 2.52239,
-      "url": "https://defillama.com/yields/pool/85c57261-b75b-4447-a115-d79b1a7de8ed"
-    },
-    {
-      "protocol": "yearn-finance",
-      "symbol": "WETH",
-      "tvlUsd": 2713596,
-      "base_apy": 2.53287,
-      "net_apy": 2.52237,
-      "url": "https://defillama.com/yields/pool/44e406d3-62e1-4168-b7be-1c07725be38b"
-    },
-    {
       "protocol": "extra-finance-leverage-farming",
       "symbol": "WETH",
-      "tvlUsd": 3394547,
-      "base_apy": 2.52693,
-      "net_apy": 2.51643,
+      "tvlUsd": 3416495,
+      "base_apy": 2.52555,
+      "net_apy": 2.51505,
       "url": "https://defillama.com/yields/pool/a9865520-5058-42ac-9a8b-99e021f2831a"
     },
     {
       "protocol": "beefy",
       "symbol": "WETH",
-      "tvlUsd": 2371252,
-      "base_apy": 2.44522,
-      "net_apy": 2.43472,
+      "tvlUsd": 2390148,
+      "base_apy": 2.43377,
+      "net_apy": 2.42327,
       "url": "https://defillama.com/yields/pool/457e435c-6d17-4cd1-b078-1aa0847e636a"
     },
     {
       "protocol": "beefy",
       "symbol": "ETH",
-      "tvlUsd": 530109,
-      "base_apy": 2.43228,
-      "net_apy": 2.42178,
+      "tvlUsd": 534334,
+      "base_apy": 2.42382,
+      "net_apy": 2.41332,
       "url": "https://defillama.com/yields/pool/0000185c-a27a-4f6d-8bd0-a6a9c125ac28"
     },
     {
@@ -676,6 +620,22 @@
       "base_apy": 2.42,
       "net_apy": 2.4095,
       "url": "https://defillama.com/yields/pool/b22fbf66-b88d-491a-bf0e-7490cb214e6d"
+    },
+    {
+      "protocol": "yearn-finance",
+      "symbol": "WETH",
+      "tvlUsd": 2671285,
+      "base_apy": 2.40349,
+      "net_apy": 2.39299,
+      "url": "https://defillama.com/yields/pool/44e406d3-62e1-4168-b7be-1c07725be38b"
+    },
+    {
+      "protocol": "compound-v3",
+      "symbol": "ETH",
+      "tvlUsd": 20259916,
+      "base_apy": 2.40326,
+      "net_apy": 2.39276,
+      "url": "https://defillama.com/yields/pool/85c57261-b75b-4447-a115-d79b1a7de8ed"
     },
     {
       "protocol": "woofi-earn",
@@ -688,47 +648,47 @@
     {
       "protocol": "beefy",
       "symbol": "WETH",
-      "tvlUsd": 1882913,
-      "base_apy": 2.35443,
-      "net_apy": 2.34393,
+      "tvlUsd": 1897915,
+      "base_apy": 2.36352,
+      "net_apy": 2.35302,
       "url": "https://defillama.com/yields/pool/4372827f-5450-45d8-93f9-ea59a3f9e34b"
     },
     {
       "protocol": "harvest-finance",
       "symbol": "ETH",
-      "tvlUsd": 1927778,
-      "base_apy": 2.35,
-      "net_apy": 2.3395,
+      "tvlUsd": 1902424,
+      "base_apy": 2.33,
+      "net_apy": 2.3195,
       "url": "https://defillama.com/yields/pool/8f7e4c6e-63be-4ebf-bfa1-9709c6a5ab77"
     },
     {
       "protocol": "harvest-finance",
       "symbol": "ETH",
-      "tvlUsd": 19135,
-      "base_apy": 2.31,
-      "net_apy": 2.2995,
+      "tvlUsd": 18883,
+      "base_apy": 2.29,
+      "net_apy": 2.2795,
       "url": "https://defillama.com/yields/pool/e971eb17-8b85-49af-93f1-00f428c5e915"
+    },
+    {
+      "protocol": "merkl",
+      "symbol": "WETH",
+      "tvlUsd": 5496976,
+      "base_apy": 2.28831,
+      "net_apy": 2.27781,
+      "url": "https://defillama.com/yields/pool/30561e74-62ad-4db7-921b-70d193a3c13a"
     },
     {
       "protocol": "dforce",
       "symbol": "ETH",
-      "tvlUsd": 32307,
+      "tvlUsd": 32382,
       "base_apy": 2.28595,
       "net_apy": 2.27545,
       "url": "https://defillama.com/yields/pool/b2e32fed-62bf-4b52-9510-05c42e7e537b"
     },
     {
-      "protocol": "merkl",
-      "symbol": "WETH",
-      "tvlUsd": 5415218,
-      "base_apy": 2.27617,
-      "net_apy": 2.26567,
-      "url": "https://defillama.com/yields/pool/30561e74-62ad-4db7-921b-70d193a3c13a"
-    },
-    {
       "protocol": "harvest-finance",
       "symbol": "ETH",
-      "tvlUsd": 20676,
+      "tvlUsd": 20404,
       "base_apy": 2.27,
       "net_apy": 2.2595,
       "url": "https://defillama.com/yields/pool/71629f38-92c6-40c6-9b0f-98214004eb9b"
@@ -750,12 +710,12 @@
       "url": "https://defillama.com/yields/pool/8c877233-8919-4146-90c9-0c39beb77f20"
     },
     {
-      "protocol": "harvest-finance",
+      "protocol": "arcadia-v2",
       "symbol": "WETH",
-      "tvlUsd": 2267959,
-      "base_apy": 2.17,
-      "net_apy": 2.1595,
-      "url": "https://defillama.com/yields/pool/b56ecd94-1433-412b-9ebd-c313e5ae78cb"
+      "tvlUsd": 505626,
+      "base_apy": 2.17249,
+      "net_apy": 2.16199,
+      "url": "https://defillama.com/yields/pool/2e8d67b9-d543-4ee3-b257-4c303ed7c277"
     },
     {
       "protocol": "harvest-finance",
@@ -766,33 +726,33 @@
       "url": "https://defillama.com/yields/pool/6405abd7-f080-43f0-b4ee-78e22d37fdf6"
     },
     {
-      "protocol": "gains-network",
+      "protocol": "harvest-finance",
       "symbol": "WETH",
-      "tvlUsd": 967982,
-      "base_apy": 2.14731,
-      "net_apy": 2.13681,
-      "url": "https://defillama.com/yields/pool/ba852dba-2778-4b00-a8e5-5ea40b56270f"
+      "tvlUsd": 2238090,
+      "base_apy": 2.15,
+      "net_apy": 2.1395,
+      "url": "https://defillama.com/yields/pool/b56ecd94-1433-412b-9ebd-c313e5ae78cb"
     },
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 1195865,
-      "base_apy": 2.13577,
-      "net_apy": 2.12527,
+      "tvlUsd": 1192948,
+      "base_apy": 2.13878,
+      "net_apy": 2.12828,
       "url": "https://defillama.com/yields/pool/7993b97d-12c3-4a36-b6b6-5b37bac4f8ae"
     },
     {
-      "protocol": "ipor-fusion",
+      "protocol": "gains-network",
       "symbol": "WETH",
-      "tvlUsd": 2259807,
-      "base_apy": 2.1321,
-      "net_apy": 2.1216,
-      "url": "https://defillama.com/yields/pool/03e9d970-3a5a-4aa7-aa3e-0e2fd839a0ec"
+      "tvlUsd": 961948,
+      "base_apy": 2.13081,
+      "net_apy": 2.12031,
+      "url": "https://defillama.com/yields/pool/ba852dba-2778-4b00-a8e5-5ea40b56270f"
     },
     {
       "protocol": "harvest-finance",
       "symbol": "ETH",
-      "tvlUsd": 342089,
+      "tvlUsd": 337590,
       "base_apy": 2.13,
       "net_apy": 2.1195,
       "url": "https://defillama.com/yields/pool/0f90f3b5-fa3f-485d-8ff9-3dbb49f84fed"
@@ -800,250 +760,242 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 640712,
-      "base_apy": 2.12922,
-      "net_apy": 2.11872,
+      "tvlUsd": 670919,
+      "base_apy": 2.12003,
+      "net_apy": 2.10953,
       "url": "https://defillama.com/yields/pool/c0b1d745-7fe9-4c27-a95d-b02aa9d26465"
-    },
-    {
-      "protocol": "arcadia-v2",
-      "symbol": "WETH",
-      "tvlUsd": 510320,
-      "base_apy": 2.11695,
-      "net_apy": 2.10645,
-      "url": "https://defillama.com/yields/pool/2e8d67b9-d543-4ee3-b257-4c303ed7c277"
-    },
-    {
-      "protocol": "beefy",
-      "symbol": "WETH",
-      "tvlUsd": 1000899,
-      "base_apy": 2.11579,
-      "net_apy": 2.10529,
-      "url": "https://defillama.com/yields/pool/09295426-4058-4f2a-9015-c1b617a767a4"
     },
     {
       "protocol": "beefy",
       "symbol": "ETH",
-      "tvlUsd": 153899,
-      "base_apy": 2.11167,
-      "net_apy": 2.10117,
+      "tvlUsd": 155204,
+      "base_apy": 2.11617,
+      "net_apy": 2.10567,
       "url": "https://defillama.com/yields/pool/a9d650d4-f355-4edb-b474-08d5c3975894"
     },
     {
-      "protocol": "yearn-finance",
+      "protocol": "beefy",
       "symbol": "WETH",
-      "tvlUsd": 8695838,
-      "base_apy": 2.07454,
-      "net_apy": 2.06404,
-      "url": "https://defillama.com/yields/pool/2b840e0a-2823-4972-9bfc-8b766c90374b"
+      "tvlUsd": 1008870,
+      "base_apy": 2.10481,
+      "net_apy": 2.09431,
+      "url": "https://defillama.com/yields/pool/09295426-4058-4f2a-9015-c1b617a767a4"
     },
     {
       "protocol": "ipor-fusion",
       "symbol": "WETH",
-      "tvlUsd": 13485,
-      "base_apy": 2.0655,
-      "net_apy": 2.055,
-      "url": "https://defillama.com/yields/pool/80c35058-a309-4526-a696-8ee309fa8a46"
+      "tvlUsd": 2229386,
+      "base_apy": 2.10102,
+      "net_apy": 2.09052,
+      "url": "https://defillama.com/yields/pool/03e9d970-3a5a-4aa7-aa3e-0e2fd839a0ec"
     },
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 12215083,
-      "base_apy": 2.03688,
-      "net_apy": 2.02638,
+      "tvlUsd": 11268701,
+      "base_apy": 2.07058,
+      "net_apy": 2.06008,
       "url": "https://defillama.com/yields/pool/ffbec904-917e-4e2a-a169-c16d2c3b5059"
+    },
+    {
+      "protocol": "yldr",
+      "symbol": "WETH",
+      "tvlUsd": 16226,
+      "base_apy": 2.04552,
+      "net_apy": 2.03502,
+      "url": "https://defillama.com/yields/pool/0bb0fc6f-ccd2-4925-b04a-ab8bf7c13b35"
     },
     {
       "protocol": "yearn-finance",
       "symbol": "WETH",
-      "tvlUsd": 5693990,
-      "base_apy": 1.99992,
-      "net_apy": 1.98942,
-      "url": "https://defillama.com/yields/pool/92fa2c73-533f-4158-8c9c-fadb1e088fa2"
+      "tvlUsd": 8657914,
+      "base_apy": 2.03088,
+      "net_apy": 2.02038,
+      "url": "https://defillama.com/yields/pool/2b840e0a-2823-4972-9bfc-8b766c90374b"
+    },
+    {
+      "protocol": "goat-protocol",
+      "symbol": "WETH",
+      "tvlUsd": 521519,
+      "base_apy": 1.95728,
+      "net_apy": 1.94678,
+      "url": "https://defillama.com/yields/pool/70228bc6-05f6-4687-a9f9-8d80c4e94b4c"
     },
     {
       "protocol": "merkl",
       "symbol": "WETH",
-      "tvlUsd": 9445220,
-      "base_apy": 1.95117,
-      "net_apy": 1.94067,
+      "tvlUsd": 9583689,
+      "base_apy": 1.94699,
+      "net_apy": 1.93649,
       "url": "https://defillama.com/yields/pool/3eb7d776-909a-47d3-a409-048c4e7f08ac"
-    },
-    {
-      "protocol": "compound-v3",
-      "symbol": "WETH",
-      "tvlUsd": 1378515,
-      "base_apy": 1.89839,
-      "net_apy": 1.88789,
-      "url": "https://defillama.com/yields/pool/be3d7cb9-f008-4050-8802-13ea505bcbdf"
-    },
-    {
-      "protocol": "euler-v2",
-      "symbol": "WETH",
-      "tvlUsd": 104688,
-      "base_apy": 1.88226,
-      "net_apy": 1.87176,
-      "url": "https://defillama.com/yields/pool/589aa5cd-aeab-433e-aefc-9d0992796430"
-    },
-    {
-      "protocol": "beefy",
-      "symbol": "WETH",
-      "tvlUsd": 176184,
-      "base_apy": 1.87692,
-      "net_apy": 1.86642,
-      "url": "https://defillama.com/yields/pool/c9d82499-ace6-4352-a000-8bdbd2f1542f"
-    },
-    {
-      "protocol": "aave-v3",
-      "symbol": "WETH",
-      "tvlUsd": 57367900,
-      "base_apy": 1.83934,
-      "net_apy": 1.82884,
-      "url": "https://defillama.com/yields/pool/e302de4d-952e-4e18-9749-0a9dc86e98bc"
-    },
-    {
-      "protocol": "euler-v2",
-      "symbol": "WETH",
-      "tvlUsd": 729375,
-      "base_apy": 1.82869,
-      "net_apy": 1.81819,
-      "url": "https://defillama.com/yields/pool/39b18684-cf0c-471b-a991-4a65d399367a"
-    },
-    {
-      "protocol": "dolomite",
-      "symbol": "WETH",
-      "tvlUsd": 5768687,
-      "base_apy": 1.81771,
-      "net_apy": 1.80721,
-      "url": "https://defillama.com/yields/pool/655ca962-e0ac-424c-84f9-2fe4fbb0fef4"
-    },
-    {
-      "protocol": "harvest-finance",
-      "symbol": "ETH",
-      "tvlUsd": 66647,
-      "base_apy": 1.81,
-      "net_apy": 1.7995,
-      "url": "https://defillama.com/yields/pool/6980966b-b25d-4627-b1b8-5eda23cb3b76"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 103974091,
-      "base_apy": 1.8,
-      "net_apy": 1.7895,
+      "tvlUsd": 104181843,
+      "base_apy": 1.9,
+      "net_apy": 1.8895,
       "url": "https://defillama.com/yields/pool/cbb9fc26-2b9e-436a-95d0-c75e2c0f5869"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "WETH",
-      "tvlUsd": 36173688,
-      "base_apy": 1.8,
-      "net_apy": 1.7895,
+      "tvlUsd": 36311264,
+      "base_apy": 1.9,
+      "net_apy": 1.8895,
       "url": "https://defillama.com/yields/pool/82da3bb0-00b6-4d88-b720-8435a3affd48"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 34518836,
-      "base_apy": 1.8,
-      "net_apy": 1.7895,
+      "tvlUsd": 34652000,
+      "base_apy": 1.9,
+      "net_apy": 1.8895,
       "url": "https://defillama.com/yields/pool/1262521f-3ba5-47d7-b035-ace072a0d0df"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 3178965,
-      "base_apy": 1.8,
-      "net_apy": 1.7895,
+      "tvlUsd": 3191228,
+      "base_apy": 1.9,
+      "net_apy": 1.8895,
       "url": "https://defillama.com/yields/pool/8966809c-9377-44bf-b72e-a95fe490fece"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 1352678,
-      "base_apy": 1.8,
-      "net_apy": 1.7895,
+      "tvlUsd": 1357896,
+      "base_apy": 1.9,
+      "net_apy": 1.8895,
       "url": "https://defillama.com/yields/pool/13f4ca38-13f8-4e56-80fc-e7687f5d6599"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 437508,
-      "base_apy": 1.8,
-      "net_apy": 1.7895,
+      "tvlUsd": 439196,
+      "base_apy": 1.9,
+      "net_apy": 1.8895,
       "url": "https://defillama.com/yields/pool/7482f0b2-2ea1-4cef-82b9-d09192bbe2e9"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 60744,
-      "base_apy": 1.8,
-      "net_apy": 1.7895,
+      "tvlUsd": 60979,
+      "base_apy": 1.9,
+      "net_apy": 1.8895,
       "url": "https://defillama.com/yields/pool/49373934-7cf1-48c2-a708-94e52f552ff3"
     },
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 313896,
-      "base_apy": 1.79326,
-      "net_apy": 1.78276,
+      "tvlUsd": 105408,
+      "base_apy": 1.88135,
+      "net_apy": 1.87085,
+      "url": "https://defillama.com/yields/pool/589aa5cd-aeab-433e-aefc-9d0992796430"
+    },
+    {
+      "protocol": "euler-v2",
+      "symbol": "WETH",
+      "tvlUsd": 293004,
+      "base_apy": 1.8454,
+      "net_apy": 1.8349,
       "url": "https://defillama.com/yields/pool/6220a31d-7c3f-4bf6-91ee-f026c9d35e92"
     },
     {
-      "protocol": "aave-v3",
+      "protocol": "dolomite",
       "symbol": "WETH",
-      "tvlUsd": 542032,
-      "base_apy": 1.78857,
-      "net_apy": 1.77807,
-      "url": "https://defillama.com/yields/pool/dc58e2cd-07bb-469b-bf39-08c4f4d3504c"
-    },
-    {
-      "protocol": "moonwell-lending",
-      "symbol": "ETH",
-      "tvlUsd": 2268169,
-      "base_apy": 1.74913,
-      "net_apy": 1.73863,
-      "url": "https://defillama.com/yields/pool/f65459ef-ebfa-496d-8f3f-23a328c6e78d"
-    },
-    {
-      "protocol": "silo-v2",
-      "symbol": "WETH",
-      "tvlUsd": 2020451,
-      "base_apy": 1.7434,
-      "net_apy": 1.7329,
-      "url": "https://defillama.com/yields/pool/b0335c3c-a380-4165-b31e-8716fe49e560"
+      "tvlUsd": 5725782,
+      "base_apy": 1.84429,
+      "net_apy": 1.83379,
+      "url": "https://defillama.com/yields/pool/655ca962-e0ac-424c-84f9-2fe4fbb0fef4"
     },
     {
       "protocol": "beefy",
       "symbol": "WETH",
-      "tvlUsd": 186691,
-      "base_apy": 1.71309,
-      "net_apy": 1.70259,
+      "tvlUsd": 188177,
+      "base_apy": 1.81972,
+      "net_apy": 1.80922,
       "url": "https://defillama.com/yields/pool/557cc9ea-303b-4653-a33d-0451f16c36ee"
     },
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 67116845,
-      "base_apy": 1.69448,
-      "net_apy": 1.68398,
-      "url": "https://defillama.com/yields/pool/23405eee-97e7-4b8e-8625-19c3a36047e8"
+      "tvlUsd": 61323689,
+      "base_apy": 1.81665,
+      "net_apy": 1.80615,
+      "url": "https://defillama.com/yields/pool/e302de4d-952e-4e18-9749-0a9dc86e98bc"
     },
     {
       "protocol": "harvest-finance",
       "symbol": "ETH",
-      "tvlUsd": 13523,
-      "base_apy": 1.67,
-      "net_apy": 1.6595,
-      "url": "https://defillama.com/yields/pool/01cbf837-088c-400d-b2f3-1bc505ca2368"
+      "tvlUsd": 65776,
+      "base_apy": 1.81,
+      "net_apy": 1.7995,
+      "url": "https://defillama.com/yields/pool/6980966b-b25d-4627-b1b8-5eda23cb3b76"
     },
     {
-      "protocol": "maxapy",
+      "protocol": "gains-network",
       "symbol": "WETH",
-      "tvlUsd": 156035,
-      "base_apy": 1.66566,
-      "net_apy": 1.65516,
-      "url": "https://defillama.com/yields/pool/7dc963bd-c63f-4657-ad1c-a924fed26728"
+      "tvlUsd": 71152,
+      "base_apy": 1.79015,
+      "net_apy": 1.77965,
+      "url": "https://defillama.com/yields/pool/84a9e95d-d479-4f57-8fbe-0dc3eaf5c5e2"
+    },
+    {
+      "protocol": "aave-v3",
+      "symbol": "WETH",
+      "tvlUsd": 545856,
+      "base_apy": 1.78774,
+      "net_apy": 1.77724,
+      "url": "https://defillama.com/yields/pool/dc58e2cd-07bb-469b-bf39-08c4f4d3504c"
+    },
+    {
+      "protocol": "yearn-finance",
+      "symbol": "WETH",
+      "tvlUsd": 5619326,
+      "base_apy": 1.75153,
+      "net_apy": 1.74103,
+      "url": "https://defillama.com/yields/pool/92fa2c73-533f-4158-8c9c-fadb1e088fa2"
+    },
+    {
+      "protocol": "silo-v2",
+      "symbol": "WETH",
+      "tvlUsd": 2030463,
+      "base_apy": 1.74342,
+      "net_apy": 1.73292,
+      "url": "https://defillama.com/yields/pool/b0335c3c-a380-4165-b31e-8716fe49e560"
+    },
+    {
+      "protocol": "compound-v3",
+      "symbol": "WETH",
+      "tvlUsd": 1438980,
+      "base_apy": 1.73785,
+      "net_apy": 1.72735,
+      "url": "https://defillama.com/yields/pool/be3d7cb9-f008-4050-8802-13ea505bcbdf"
+    },
+    {
+      "protocol": "moonwell-lending",
+      "symbol": "ETH",
+      "tvlUsd": 2265077,
+      "base_apy": 1.72893,
+      "net_apy": 1.71843,
+      "url": "https://defillama.com/yields/pool/f65459ef-ebfa-496d-8f3f-23a328c6e78d"
+    },
+    {
+      "protocol": "beefy",
+      "symbol": "WETH",
+      "tvlUsd": 177587,
+      "base_apy": 1.71724,
+      "net_apy": 1.70674,
+      "url": "https://defillama.com/yields/pool/c9d82499-ace6-4352-a000-8bdbd2f1542f"
+    },
+    {
+      "protocol": "aave-v3",
+      "symbol": "WETH",
+      "tvlUsd": 66765159,
+      "base_apy": 1.69808,
+      "net_apy": 1.68758,
+      "url": "https://defillama.com/yields/pool/23405eee-97e7-4b8e-8625-19c3a36047e8"
     },
     {
       "protocol": "harvest-finance",
@@ -1054,41 +1006,65 @@
       "url": "https://defillama.com/yields/pool/7b74accc-614f-4656-ba1b-ad12fec2c12b"
     },
     {
-      "protocol": "merkl",
-      "symbol": "WETH",
-      "tvlUsd": 451232330,
-      "base_apy": 1.63897,
-      "net_apy": 1.62847,
-      "url": "https://defillama.com/yields/pool/79ea1664-77fc-46f4-a932-f970325e2a29"
+      "protocol": "harvest-finance",
+      "symbol": "ETH",
+      "tvlUsd": 13345,
+      "base_apy": 1.65,
+      "net_apy": 1.6395,
+      "url": "https://defillama.com/yields/pool/01cbf837-088c-400d-b2f3-1bc505ca2368"
     },
     {
-      "protocol": "yearn-finance",
+      "protocol": "merkl",
       "symbol": "WETH",
-      "tvlUsd": 39999276,
-      "base_apy": 1.62656,
-      "net_apy": 1.61606,
-      "url": "https://defillama.com/yields/pool/acb09b67-8509-4e2a-adb4-4ce520084714"
+      "tvlUsd": 457626722,
+      "base_apy": 1.64922,
+      "net_apy": 1.63872,
+      "url": "https://defillama.com/yields/pool/79ea1664-77fc-46f4-a932-f970325e2a29"
     },
     {
       "protocol": "harvest-finance",
       "symbol": "ETH",
-      "tvlUsd": 34410,
-      "base_apy": 1.62,
-      "net_apy": 1.6095,
+      "tvlUsd": 33957,
+      "base_apy": 1.63,
+      "net_apy": 1.6195,
       "url": "https://defillama.com/yields/pool/cc6137cd-18f2-4558-829b-3762c5e94405"
+    },
+    {
+      "protocol": "ipor-fusion",
+      "symbol": "WETH",
+      "tvlUsd": 13287,
+      "base_apy": 1.62788,
+      "net_apy": 1.61738,
+      "url": "https://defillama.com/yields/pool/80c35058-a309-4526-a696-8ee309fa8a46"
     },
     {
       "protocol": "exactly",
       "symbol": "WETH",
-      "tvlUsd": 1174355,
+      "tvlUsd": 1166536,
       "base_apy": 1.58371,
       "net_apy": 1.57321,
       "url": "https://defillama.com/yields/pool/d1f06720-26fa-49ee-9932-4292840798ba"
     },
     {
+      "protocol": "yearn-finance",
+      "symbol": "WETH",
+      "tvlUsd": 40524622,
+      "base_apy": 1.55554,
+      "net_apy": 1.54504,
+      "url": "https://defillama.com/yields/pool/acb09b67-8509-4e2a-adb4-4ce520084714"
+    },
+    {
+      "protocol": "maxapy",
+      "symbol": "WETH",
+      "tvlUsd": 154880,
+      "base_apy": 1.55366,
+      "net_apy": 1.54316,
+      "url": "https://defillama.com/yields/pool/7dc963bd-c63f-4657-ad1c-a924fed26728"
+    },
+    {
       "protocol": "radiant-v2",
       "symbol": "WETH",
-      "tvlUsd": 175120,
+      "tvlUsd": 176232,
       "base_apy": 1.53308,
       "net_apy": 1.52258,
       "url": "https://defillama.com/yields/pool/d698e6d6-afdb-472c-99a6-1119b3c44722"
@@ -1096,122 +1072,138 @@
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 97008,
-      "base_apy": 1.52981,
-      "net_apy": 1.51931,
+      "tvlUsd": 98815,
+      "base_apy": 1.52267,
+      "net_apy": 1.51217,
       "url": "https://defillama.com/yields/pool/fbee4a0d-c4ed-40c2-b1f1-a93f274a52fc"
     },
     {
       "protocol": "harvest-finance",
       "symbol": "WETH",
-      "tvlUsd": 13519,
-      "base_apy": 1.52,
-      "net_apy": 1.5095,
+      "tvlUsd": 13341,
+      "base_apy": 1.5,
+      "net_apy": 1.4895,
       "url": "https://defillama.com/yields/pool/57dba277-4228-4cb8-acd8-62c9c46c7cd6"
-    },
-    {
-      "protocol": "yearn-finance",
-      "symbol": "WETH",
-      "tvlUsd": 829738,
-      "base_apy": 1.51053,
-      "net_apy": 1.50003,
-      "url": "https://defillama.com/yields/pool/f7704d02-2fc8-4311-92dc-da8ce4877e30"
-    },
-    {
-      "protocol": "aave-v3",
-      "symbol": "WETH",
-      "tvlUsd": 38042141,
-      "base_apy": 1.50801,
-      "net_apy": 1.49751,
-      "url": "https://defillama.com/yields/pool/ef8c5c38-6a41-4383-9dc8-6fb31e69a0c9"
     },
     {
       "protocol": "extra-finance-leverage-farming",
       "symbol": "WETH",
-      "tvlUsd": 18850,
+      "tvlUsd": 18731,
       "base_apy": 1.48265,
       "net_apy": 1.47215,
       "url": "https://defillama.com/yields/pool/26534164-5f08-440f-9da4-a045208e75f0"
     },
     {
-      "protocol": "fluid-lending",
+      "protocol": "yearn-finance",
       "symbol": "WETH",
-      "tvlUsd": 8772439,
-      "base_apy": 1.43,
-      "net_apy": 1.4195,
-      "url": "https://defillama.com/yields/pool/12c58026-7208-4899-9f0c-dfc293513a3d"
+      "tvlUsd": 819035,
+      "base_apy": 1.44013,
+      "net_apy": 1.42963,
+      "url": "https://defillama.com/yields/pool/f7704d02-2fc8-4311-92dc-da8ce4877e30"
     },
     {
-      "protocol": "sparklend",
+      "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 237050635,
-      "base_apy": 1.42765,
-      "net_apy": 1.41715,
-      "url": "https://defillama.com/yields/pool/24195b31-d749-445f-bf9e-b65aa025ebdd"
+      "tvlUsd": 43866436,
+      "base_apy": 1.44003,
+      "net_apy": 1.42953,
+      "url": "https://defillama.com/yields/pool/ef8c5c38-6a41-4383-9dc8-6fb31e69a0c9"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 9943507,
-      "base_apy": 1.41,
-      "net_apy": 1.3995,
+      "tvlUsd": 9847714,
+      "base_apy": 1.44,
+      "net_apy": 1.4295,
       "url": "https://defillama.com/yields/pool/a980d165-d64a-45d8-b9c9-de2d628f5f23"
     },
     {
       "protocol": "fluid-lending",
+      "symbol": "WETH",
+      "tvlUsd": 8819845,
+      "base_apy": 1.44,
+      "net_apy": 1.4295,
+      "url": "https://defillama.com/yields/pool/12c58026-7208-4899-9f0c-dfc293513a3d"
+    },
+    {
+      "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 3738687,
-      "base_apy": 1.41,
-      "net_apy": 1.3995,
+      "tvlUsd": 3759165,
+      "base_apy": 1.44,
+      "net_apy": 1.4295,
       "url": "https://defillama.com/yields/pool/83514d43-0677-43ca-96be-7b33160f4a19"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 2415583,
-      "base_apy": 1.41,
-      "net_apy": 1.3995,
+      "tvlUsd": 2221362,
+      "base_apy": 1.44,
+      "net_apy": 1.4295,
       "url": "https://defillama.com/yields/pool/c531430b-4ad9-45a0-8f76-976d3964a77e"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 105612,
-      "base_apy": 1.41,
-      "net_apy": 1.3995,
+      "tvlUsd": 106019,
+      "base_apy": 1.44,
+      "net_apy": 1.4295,
       "url": "https://defillama.com/yields/pool/b73e74d5-c383-402c-939b-accafbf1c36c"
     },
     {
       "protocol": "fluid-lending",
       "symbol": "ETH",
-      "tvlUsd": 32888,
-      "base_apy": 1.41,
-      "net_apy": 1.3995,
+      "tvlUsd": 33015,
+      "base_apy": 1.44,
+      "net_apy": 1.4295,
       "url": "https://defillama.com/yields/pool/800e0039-11a1-4b9e-b999-eb7475fdea7e"
+    },
+    {
+      "protocol": "euler-v2",
+      "symbol": "WETH",
+      "tvlUsd": 1148421,
+      "base_apy": 1.41548,
+      "net_apy": 1.40498,
+      "url": "https://defillama.com/yields/pool/39b18684-cf0c-471b-a991-4a65d399367a"
     },
     {
       "protocol": "exactly",
       "symbol": "WETH",
-      "tvlUsd": 1174355,
+      "tvlUsd": 1166536,
       "base_apy": 1.38209,
       "net_apy": 1.37159,
       "url": "https://defillama.com/yields/pool/00e70fe3-a32a-421f-ae7c-46641776b5af"
     },
     {
+      "protocol": "sparklend",
+      "symbol": "WETH",
+      "tvlUsd": 262308214,
+      "base_apy": 1.36915,
+      "net_apy": 1.35865,
+      "url": "https://defillama.com/yields/pool/24195b31-d749-445f-bf9e-b65aa025ebdd"
+    },
+    {
       "protocol": "gearbox",
       "symbol": "WETH",
-      "tvlUsd": 8245408,
-      "base_apy": 1.29256,
-      "net_apy": 1.28206,
+      "tvlUsd": 8292219,
+      "base_apy": 1.29255,
+      "net_apy": 1.28205,
       "url": "https://defillama.com/yields/pool/c11cb1b9-3cd5-4252-93da-51b130fc4f45"
     },
     {
-      "protocol": "aave-v3",
+      "protocol": "fluid-lending",
       "symbol": "WETH",
-      "tvlUsd": 2452158398,
-      "base_apy": 1.27614,
-      "net_apy": 1.26564,
-      "url": "https://defillama.com/yields/pool/e880e828-ca59-4ec6-8d4f-27182a4dc23d"
+      "tvlUsd": 260522,
+      "base_apy": 1.28,
+      "net_apy": 1.2695,
+      "url": "https://defillama.com/yields/pool/2319c901-a49e-43d7-9901-f9ef7a6b1480"
+    },
+    {
+      "protocol": "euler-v2",
+      "symbol": "WETH",
+      "tvlUsd": 3070508,
+      "base_apy": 1.27701,
+      "net_apy": 1.26651,
+      "url": "https://defillama.com/yields/pool/e30876ae-e9d3-4ab1-bf5b-96920f4fc9ba"
     },
     {
       "protocol": "radiant-v1",
@@ -1224,39 +1216,31 @@
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 11576140,
-      "base_apy": 1.2629,
-      "net_apy": 1.2524,
+      "tvlUsd": 11510426,
+      "base_apy": 1.26246,
+      "net_apy": 1.25196,
       "url": "https://defillama.com/yields/pool/3e332a41-3a15-41bc-8d5c-438c09609349"
     },
     {
-      "protocol": "vesper",
-      "symbol": "ETH",
-      "tvlUsd": 1449418,
-      "base_apy": 1.25,
-      "net_apy": 1.2395,
-      "url": "https://defillama.com/yields/pool/6c35eb78-d809-4717-b09b-0cc6814a0e7e"
+      "protocol": "aave-v3",
+      "symbol": "WETH",
+      "tvlUsd": 2519288096,
+      "base_apy": 1.25999,
+      "net_apy": 1.24949,
+      "url": "https://defillama.com/yields/pool/e880e828-ca59-4ec6-8d4f-27182a4dc23d"
     },
     {
       "protocol": "fraxlend",
       "symbol": "WETH",
-      "tvlUsd": 95765,
+      "tvlUsd": 96184,
       "base_apy": 1.23517,
       "net_apy": 1.22467,
       "url": "https://defillama.com/yields/pool/ec2b2c23-d4ae-4622-a6da-3da6d27f6e72"
     },
     {
-      "protocol": "gains-network",
-      "symbol": "WETH",
-      "tvlUsd": 71222,
-      "base_apy": 1.20435,
-      "net_apy": 1.19385,
-      "url": "https://defillama.com/yields/pool/84a9e95d-d479-4f57-8fbe-0dc3eaf5c5e2"
-    },
-    {
       "protocol": "folks-finance-xchain",
       "symbol": "ETH",
-      "tvlUsd": 11570,
+      "tvlUsd": 11618,
       "base_apy": 1.2,
       "net_apy": 1.1895,
       "url": "https://defillama.com/yields/pool/ce66ac4c-2fa6-4665-b65d-2c9ccdc8c998"
@@ -1264,65 +1248,57 @@
     {
       "protocol": "superlend",
       "symbol": "WETH",
-      "tvlUsd": 125774,
+      "tvlUsd": 126259,
       "base_apy": 1.17113,
       "net_apy": 1.16063,
       "url": "https://defillama.com/yields/pool/502a6e7e-c474-4bf8-8cd4-0871a528bc35"
     },
     {
-      "protocol": "fluid-lending",
-      "symbol": "WETH",
-      "tvlUsd": 258040,
-      "base_apy": 1.14,
-      "net_apy": 1.1295,
-      "url": "https://defillama.com/yields/pool/2319c901-a49e-43d7-9901-f9ef7a6b1480"
+      "protocol": "vesper",
+      "symbol": "ETH",
+      "tvlUsd": 1460941,
+      "base_apy": 1.12,
+      "net_apy": 1.1095,
+      "url": "https://defillama.com/yields/pool/6c35eb78-d809-4717-b09b-0cc6814a0e7e"
     },
     {
       "protocol": "wise-lending-v2",
       "symbol": "WETH",
-      "tvlUsd": 27442,
-      "base_apy": 1.11694,
-      "net_apy": 1.10644,
-      "url": "https://defillama.com/yields/pool/4d36020f-626a-44eb-862e-77c9d84d168c"
-    },
-    {
-      "protocol": "wise-lending-v2",
-      "symbol": "WETH",
-      "tvlUsd": 19423,
+      "tvlUsd": 19534,
       "base_apy": 1.10696,
       "net_apy": 1.09646,
       "url": "https://defillama.com/yields/pool/70b7e8bb-d899-4e9d-8c4c-f64a16c279e0"
     },
     {
-      "protocol": "yldr",
+      "protocol": "wise-lending-v2",
       "symbol": "WETH",
-      "tvlUsd": 18606,
-      "base_apy": 1.08998,
-      "net_apy": 1.07948,
-      "url": "https://defillama.com/yields/pool/0bb0fc6f-ccd2-4925-b04a-ab8bf7c13b35"
+      "tvlUsd": 27591,
+      "base_apy": 1.10523,
+      "net_apy": 1.09473,
+      "url": "https://defillama.com/yields/pool/4d36020f-626a-44eb-862e-77c9d84d168c"
+    },
+    {
+      "protocol": "silo-v2",
+      "symbol": "WETH",
+      "tvlUsd": 1626775,
+      "base_apy": 1.07509,
+      "net_apy": 1.06459,
+      "url": "https://defillama.com/yields/pool/d6766ab1-edd6-4ccc-8294-6ded4336ae88"
     },
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 3051422,
-      "base_apy": 1.07756,
-      "net_apy": 1.06706,
+      "tvlUsd": 3112920,
+      "base_apy": 1.06505,
+      "net_apy": 1.05455,
       "url": "https://defillama.com/yields/pool/4eedc8b7-6314-4ac1-9966-dff2e1bebcf1"
     },
     {
       "protocol": "silo-v2",
       "symbol": "WETH",
-      "tvlUsd": 1617604,
-      "base_apy": 1.07508,
-      "net_apy": 1.06458,
-      "url": "https://defillama.com/yields/pool/d6766ab1-edd6-4ccc-8294-6ded4336ae88"
-    },
-    {
-      "protocol": "silo-v2",
-      "symbol": "WETH",
-      "tvlUsd": 4035180,
-      "base_apy": 1.05239,
-      "net_apy": 1.04189,
+      "tvlUsd": 4055173,
+      "base_apy": 1.0524,
+      "net_apy": 1.0419,
       "url": "https://defillama.com/yields/pool/beee8014-d4e3-4a7e-9550-57336b99715a"
     },
     {
@@ -1344,26 +1320,34 @@
     {
       "protocol": "exactly",
       "symbol": "WETH",
-      "tvlUsd": 1174355,
-      "base_apy": 0.98643,
-      "net_apy": 0.97593,
+      "tvlUsd": 1166536,
+      "base_apy": 0.98606,
+      "net_apy": 0.97556,
       "url": "https://defillama.com/yields/pool/755541b1-6df1-4ae5-8e48-853640448dc6"
-    },
-    {
-      "protocol": "moonwell-lending",
-      "symbol": "ETH",
-      "tvlUsd": 9741704,
-      "base_apy": 0.93748,
-      "net_apy": 0.92698,
-      "url": "https://defillama.com/yields/pool/914284ae-dbef-421f-bbb7-7c42f527fd5f"
     },
     {
       "protocol": "peapods-finance",
       "symbol": "WETH",
-      "tvlUsd": 74390,
-      "base_apy": 0.93484,
-      "net_apy": 0.92434,
+      "tvlUsd": 74716,
+      "base_apy": 0.93486,
+      "net_apy": 0.92436,
       "url": "https://defillama.com/yields/pool/2fc7212e-dfdf-4bc5-8772-aef7a1602c41"
+    },
+    {
+      "protocol": "moonwell-lending",
+      "symbol": "ETH",
+      "tvlUsd": 9635303,
+      "base_apy": 0.9333,
+      "net_apy": 0.9228,
+      "url": "https://defillama.com/yields/pool/914284ae-dbef-421f-bbb7-7c42f527fd5f"
+    },
+    {
+      "protocol": "vesper",
+      "symbol": "ETH",
+      "tvlUsd": 626545,
+      "base_apy": 0.93,
+      "net_apy": 0.9195,
+      "url": "https://defillama.com/yields/pool/43e149fc-a0d8-4680-8bb5-8ba12f09e94a"
     },
     {
       "protocol": "premia-v2",
@@ -1374,17 +1358,9 @@
       "url": "https://defillama.com/yields/pool/20270841-3615-4d58-b464-6b5fb927f9eb"
     },
     {
-      "protocol": "vesper",
-      "symbol": "ETH",
-      "tvlUsd": 623353,
-      "base_apy": 0.92,
-      "net_apy": 0.9095,
-      "url": "https://defillama.com/yields/pool/43e149fc-a0d8-4680-8bb5-8ba12f09e94a"
-    },
-    {
       "protocol": "aurigami",
       "symbol": "WETH",
-      "tvlUsd": 332948,
+      "tvlUsd": 334817,
       "base_apy": 0.90357,
       "net_apy": 0.89307,
       "url": "https://defillama.com/yields/pool/1ee8d252-1677-4e84-8f8a-f052517893a5"
@@ -1392,63 +1368,63 @@
     {
       "protocol": "yldr",
       "symbol": "WETH",
-      "tvlUsd": 55211,
+      "tvlUsd": 55075,
       "base_apy": 0.88258,
       "net_apy": 0.87208,
       "url": "https://defillama.com/yields/pool/fab687d3-fdbd-41b0-9a32-3fccd87f9159"
     },
     {
-      "protocol": "mendi-finance",
-      "symbol": "WETH",
-      "tvlUsd": 1197586,
-      "base_apy": 0.87374,
-      "net_apy": 0.86324,
-      "url": "https://defillama.com/yields/pool/09a68e39-17b3-4747-8484-97b859ca282e"
-    },
-    {
       "protocol": "venus-core-pool",
       "symbol": "ETH",
-      "tvlUsd": 36582694,
-      "base_apy": 0.86284,
-      "net_apy": 0.85234,
+      "tvlUsd": 36565457,
+      "base_apy": 0.86889,
+      "net_apy": 0.85839,
       "url": "https://defillama.com/yields/pool/de8928ad-d03a-423d-92d7-3c4648e3ffd2"
     },
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 94181,
-      "base_apy": 0.85865,
-      "net_apy": 0.84815,
+      "tvlUsd": 94862,
+      "base_apy": 0.85932,
+      "net_apy": 0.84882,
       "url": "https://defillama.com/yields/pool/31785829-a658-4ed5-80df-f411615b4fb0"
+    },
+    {
+      "protocol": "mendi-finance",
+      "symbol": "WETH",
+      "tvlUsd": 1204120,
+      "base_apy": 0.84846,
+      "net_apy": 0.83796,
+      "url": "https://defillama.com/yields/pool/09a68e39-17b3-4747-8484-97b859ca282e"
     },
     {
       "protocol": "dolomite",
       "symbol": "WETH",
-      "tvlUsd": 1198696,
-      "base_apy": 0.74434,
-      "net_apy": 0.73384,
+      "tvlUsd": 1198253,
+      "base_apy": 0.74445,
+      "net_apy": 0.73395,
       "url": "https://defillama.com/yields/pool/f78c355d-df33-44bf-96b1-39481a0dd89e"
     },
     {
       "protocol": "sparklend",
       "symbol": "WETH",
-      "tvlUsd": 562652,
-      "base_apy": 0.73188,
-      "net_apy": 0.72138,
+      "tvlUsd": 566306,
+      "base_apy": 0.73189,
+      "net_apy": 0.72139,
       "url": "https://defillama.com/yields/pool/86aa9e69-b961-4f69-9931-b6de33ad8e40"
     },
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 1230704,
-      "base_apy": 0.72433,
-      "net_apy": 0.71383,
+      "tvlUsd": 1234914,
+      "base_apy": 0.72599,
+      "net_apy": 0.71549,
       "url": "https://defillama.com/yields/pool/2613b6dd-c732-4319-9839-b32a5f0b11f5"
     },
     {
       "protocol": "save",
       "symbol": "ETH",
-      "tvlUsd": 245947,
+      "tvlUsd": 250458,
       "base_apy": 0.68,
       "net_apy": 0.6695,
       "url": "https://defillama.com/yields/pool/cb28058a-6d8b-4093-af17-e90c7eab138b"
@@ -1456,47 +1432,47 @@
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 1579845,
-      "base_apy": 0.62228,
-      "net_apy": 0.61178,
+      "tvlUsd": 1588962,
+      "base_apy": 0.6223,
+      "net_apy": 0.6118,
       "url": "https://defillama.com/yields/pool/e9a78b05-fdab-4bba-a8ab-5d68fdf26aa8"
     },
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 32793099,
-      "base_apy": 0.60432,
-      "net_apy": 0.59382,
+      "tvlUsd": 33042061,
+      "base_apy": 0.60308,
+      "net_apy": 0.59258,
       "url": "https://defillama.com/yields/pool/2b9bf1c6-a018-4e93-a32f-7cf6ccd311fc"
     },
     {
       "protocol": "scallop-lend",
       "symbol": "WETH",
-      "tvlUsd": 19934,
-      "base_apy": 0.58546,
-      "net_apy": 0.57496,
+      "tvlUsd": 19900,
+      "base_apy": 0.58529,
+      "net_apy": 0.57479,
       "url": "https://defillama.com/yields/pool/765d1396-9f80-40a6-8016-05a945468de1"
     },
     {
       "protocol": "aave-v3",
       "symbol": "ETH",
-      "tvlUsd": 14637163,
-      "base_apy": 0.54332,
-      "net_apy": 0.53282,
+      "tvlUsd": 14620168,
+      "base_apy": 0.5516,
+      "net_apy": 0.5411,
       "url": "https://defillama.com/yields/pool/91eed93a-e7e0-49fa-92c1-40f2b2768fd9"
     },
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 658499,
-      "base_apy": 0.50369,
-      "net_apy": 0.49319,
+      "tvlUsd": 606939,
+      "base_apy": 0.54555,
+      "net_apy": 0.53505,
       "url": "https://defillama.com/yields/pool/58b39751-4786-404d-a28a-44795235621e"
     },
     {
       "protocol": "folks-finance-xchain",
       "symbol": "ETH",
-      "tvlUsd": 34510,
+      "tvlUsd": 34653,
       "base_apy": 0.497,
       "net_apy": 0.4865,
       "url": "https://defillama.com/yields/pool/29d6e588-190b-4daf-b840-9e5eaa62cc43"
@@ -1504,15 +1480,15 @@
     {
       "protocol": "uwu-lend",
       "symbol": "WETH",
-      "tvlUsd": 30164,
-      "base_apy": 0.49104,
-      "net_apy": 0.48054,
+      "tvlUsd": 30296,
+      "base_apy": 0.48665,
+      "net_apy": 0.47615,
       "url": "https://defillama.com/yields/pool/c182eb7e-c3aa-4a5b-aeaa-4b1ef05cbf6d"
     },
     {
       "protocol": "more-markets",
       "symbol": "WETH",
-      "tvlUsd": 454169,
+      "tvlUsd": 458060,
       "base_apy": 0.45994,
       "net_apy": 0.44944,
       "url": "https://defillama.com/yields/pool/e465ca11-dd6a-41cf-a784-99637f42baca"
@@ -1520,7 +1496,7 @@
     {
       "protocol": "minterest",
       "symbol": "WETH",
-      "tvlUsd": 33594,
+      "tvlUsd": 33638,
       "base_apy": 0.45811,
       "net_apy": 0.44761,
       "url": "https://defillama.com/yields/pool/edc32e93-0feb-4d38-bb73-366bb4a2aace"
@@ -1536,7 +1512,7 @@
     {
       "protocol": "amply-finance",
       "symbol": "ETH",
-      "tvlUsd": 46357,
+      "tvlUsd": 46628,
       "base_apy": 0.43626,
       "net_apy": 0.42576,
       "url": "https://defillama.com/yields/pool/81278c26-51b3-4e2d-b8d8-186e881923b4"
@@ -1544,7 +1520,7 @@
     {
       "protocol": "degenprime",
       "symbol": "WETH",
-      "tvlUsd": 42652,
+      "tvlUsd": 42822,
       "base_apy": 0.4302,
       "net_apy": 0.4197,
       "url": "https://defillama.com/yields/pool/6ff79490-0cdf-4dcf-914f-65c9f6e93182"
@@ -1552,23 +1528,23 @@
     {
       "protocol": "dolomite",
       "symbol": "WETH",
-      "tvlUsd": 1530704,
-      "base_apy": 0.4203,
-      "net_apy": 0.4098,
+      "tvlUsd": 1530741,
+      "base_apy": 0.42082,
+      "net_apy": 0.41032,
       "url": "https://defillama.com/yields/pool/3bcbd70c-1610-462c-9761-222546502782"
     },
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 16463,
-      "base_apy": 0.38419,
-      "net_apy": 0.37369,
+      "tvlUsd": 16558,
+      "base_apy": 0.3842,
+      "net_apy": 0.3737,
       "url": "https://defillama.com/yields/pool/b80b61e2-9256-42f1-9979-2decabf438cf"
     },
     {
       "protocol": "folks-finance-lending",
       "symbol": "WETH",
-      "tvlUsd": 84982,
+      "tvlUsd": 85137,
       "base_apy": 0.32,
       "net_apy": 0.3095,
       "url": "https://defillama.com/yields/pool/85f592f1-985a-4165-a621-c23aa19ba6c6"
@@ -1576,7 +1552,7 @@
     {
       "protocol": "folks-finance-xchain",
       "symbol": "ETH",
-      "tvlUsd": 30238,
+      "tvlUsd": 30364,
       "base_apy": 0.293,
       "net_apy": 0.2825,
       "url": "https://defillama.com/yields/pool/822e55e3-0ff7-4df3-8b44-712b97d80fe5"
@@ -1584,7 +1560,7 @@
     {
       "protocol": "silo-v2",
       "symbol": "WETH",
-      "tvlUsd": 67027,
+      "tvlUsd": 67359,
       "base_apy": 0.27447,
       "net_apy": 0.26397,
       "url": "https://defillama.com/yields/pool/15378f94-951c-4f5e-b2a7-45f4c66cc07b"
@@ -1592,7 +1568,7 @@
     {
       "protocol": "starlay-finance",
       "symbol": "WETH",
-      "tvlUsd": 166524,
+      "tvlUsd": 165153,
       "base_apy": 0.26282,
       "net_apy": 0.25232,
       "url": "https://defillama.com/yields/pool/79e1b769-8f59-437f-9dfe-2566befc3569"
@@ -1600,34 +1576,26 @@
     {
       "protocol": "merkl",
       "symbol": "WETH",
-      "tvlUsd": 253721898,
-      "base_apy": 0.25879,
-      "net_apy": 0.24829,
+      "tvlUsd": 254999107,
+      "base_apy": 0.25696,
+      "net_apy": 0.24646,
       "url": "https://defillama.com/yields/pool/5d4a3ff3-b474-4fcd-b1f4-41569e3e643b"
     },
     {
       "protocol": "lendle-pooled-markets",
       "symbol": "WETH",
-      "tvlUsd": 2617633,
-      "base_apy": 0.23781,
-      "net_apy": 0.22731,
+      "tvlUsd": 2611646,
+      "base_apy": 0.23756,
+      "net_apy": 0.22706,
       "url": "https://defillama.com/yields/pool/4f9047f1-ca9f-4b30-b5ad-c7a900c38cae"
     },
     {
       "protocol": "orbit-protocol",
       "symbol": "WETH",
-      "tvlUsd": 472273,
+      "tvlUsd": 480837,
       "base_apy": 0.22456,
       "net_apy": 0.21406,
       "url": "https://defillama.com/yields/pool/ae6f60fa-dd45-4cf0-82c9-ef86251a974c"
-    },
-    {
-      "protocol": "euler-v2",
-      "symbol": "WETH",
-      "tvlUsd": 6172079,
-      "base_apy": 0.22149,
-      "net_apy": 0.21099,
-      "url": "https://defillama.com/yields/pool/e30876ae-e9d3-4ab1-bf5b-96920f4fc9ba"
     },
     {
       "protocol": "yearn-finance",
@@ -1640,23 +1608,23 @@
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 7627899,
-      "base_apy": 0.20038,
-      "net_apy": 0.18988,
+      "tvlUsd": 7714012,
+      "base_apy": 0.19897,
+      "net_apy": 0.18847,
       "url": "https://defillama.com/yields/pool/e466a720-dca3-47ed-92a1-1acefd3036d8"
     },
     {
       "protocol": "kinza-finance",
       "symbol": "ETH",
-      "tvlUsd": 1108733,
-      "base_apy": 0.16602,
-      "net_apy": 0.15552,
+      "tvlUsd": 1112115,
+      "base_apy": 0.1664,
+      "net_apy": 0.1559,
       "url": "https://defillama.com/yields/pool/abadece3-0fa6-4383-b4ce-68ae3cb8a50f"
     },
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 2723188,
+      "tvlUsd": 2722898,
       "base_apy": 0.16375,
       "net_apy": 0.15325,
       "url": "https://defillama.com/yields/pool/9f3232e4-def7-42af-a6c7-13e6cf14d151"
@@ -1664,31 +1632,31 @@
     {
       "protocol": "nabla-finance",
       "symbol": "WETH",
-      "tvlUsd": 27011,
-      "base_apy": 0.14237,
-      "net_apy": 0.13187,
+      "tvlUsd": 27157,
+      "base_apy": 0.14737,
+      "net_apy": 0.13687,
       "url": "https://defillama.com/yields/pool/7722b1ab-44da-49bc-a30e-b541159a240d"
-    },
-    {
-      "protocol": "kamino-lend",
-      "symbol": "ETH",
-      "tvlUsd": 6287565,
-      "base_apy": 0.12617,
-      "net_apy": 0.11567,
-      "url": "https://defillama.com/yields/pool/1290c9f5-e71c-4152-b3e8-d5f2c120e2e9"
     },
     {
       "protocol": "nabla-finance",
       "symbol": "WETH",
-      "tvlUsd": 34461,
+      "tvlUsd": 34672,
       "base_apy": 0.1235,
       "net_apy": 0.113,
       "url": "https://defillama.com/yields/pool/4890b094-7ba6-4364-b70c-0287f5b310d1"
     },
     {
+      "protocol": "kamino-lend",
+      "symbol": "ETH",
+      "tvlUsd": 6385596,
+      "base_apy": 0.12297,
+      "net_apy": 0.11247,
+      "url": "https://defillama.com/yields/pool/1290c9f5-e71c-4152-b3e8-d5f2c120e2e9"
+    },
+    {
       "protocol": "termmax",
       "symbol": "WETH",
-      "tvlUsd": 632167,
+      "tvlUsd": 625488,
       "base_apy": 0.12211,
       "net_apy": 0.11161,
       "url": "https://defillama.com/yields/pool/e7a5fde4-8952-4d21-9299-559643007302"
@@ -1696,7 +1664,7 @@
     {
       "protocol": "moonwell-lending",
       "symbol": "WETH",
-      "tvlUsd": 65595,
+      "tvlUsd": 65626,
       "base_apy": 0.09662,
       "net_apy": 0.08612,
       "url": "https://defillama.com/yields/pool/e41272e8-2da9-4441-9495-a1683d5967ca"
@@ -1705,14 +1673,14 @@
       "protocol": "prime-protocol",
       "symbol": "ETH",
       "tvlUsd": 109368,
-      "base_apy": 0.095,
-      "net_apy": 0.0845,
+      "base_apy": 0.09501,
+      "net_apy": 0.08451,
       "url": "https://defillama.com/yields/pool/a3f11dad-e9b6-41f9-9c39-c788c2ff0bdb"
     },
     {
       "protocol": "bifi",
       "symbol": "ETH",
-      "tvlUsd": 685595,
+      "tvlUsd": 689792,
       "base_apy": 0.0784,
       "net_apy": 0.0679,
       "url": "https://defillama.com/yields/pool/e5686448-3686-4da2-8863-5d3b2647b816"
@@ -1720,7 +1688,7 @@
     {
       "protocol": "sonne-finance",
       "symbol": "WETH",
-      "tvlUsd": 305612,
+      "tvlUsd": 307540,
       "base_apy": 0.06282,
       "net_apy": 0.05232,
       "url": "https://defillama.com/yields/pool/8d3900b5-6be0-4c7f-9bb2-0b91ec228411"
@@ -1736,15 +1704,15 @@
     {
       "protocol": "segment-finance",
       "symbol": "WETH",
-      "tvlUsd": 441946,
-      "base_apy": 0.05524,
-      "net_apy": 0.04474,
+      "tvlUsd": 441478,
+      "base_apy": 0.05522,
+      "net_apy": 0.04472,
       "url": "https://defillama.com/yields/pool/e15573de-a1bf-49e2-9a84-9f3574b7dedb"
     },
     {
       "protocol": "wing-finance",
       "symbol": "ETH",
-      "tvlUsd": 17917,
+      "tvlUsd": 18059,
       "base_apy": 0.04514,
       "net_apy": 0.03464,
       "url": "https://defillama.com/yields/pool/654a9c12-2821-4953-a8dd-97d9211e6c97"
@@ -1752,7 +1720,7 @@
     {
       "protocol": "paraspace-lending-v1",
       "symbol": "WETH",
-      "tvlUsd": 19698,
+      "tvlUsd": 19629,
       "base_apy": 0.04199,
       "net_apy": 0.03149,
       "url": "https://defillama.com/yields/pool/661e03af-039e-48b1-8fdf-0ff58198b00a"
@@ -1761,14 +1729,14 @@
       "protocol": "morpho-v0-compoundv2",
       "symbol": "WETH",
       "tvlUsd": 25099,
-      "base_apy": 0.04187,
-      "net_apy": 0.03137,
+      "base_apy": 0.04186,
+      "net_apy": 0.03136,
       "url": "https://defillama.com/yields/pool/b5d193d2-4247-4e2f-8a88-de5e52643fda"
     },
     {
       "protocol": "orbit-protocol",
       "symbol": "WETH",
-      "tvlUsd": 177201,
+      "tvlUsd": 180414,
       "base_apy": 0.04119,
       "net_apy": 0.03069,
       "url": "https://defillama.com/yields/pool/462198bd-7133-4d22-aa2f-d40bbf530313"
@@ -1784,7 +1752,7 @@
     {
       "protocol": "extra-finance-leverage-farming",
       "symbol": "WETH",
-      "tvlUsd": 194209,
+      "tvlUsd": 195440,
       "base_apy": 0.03741,
       "net_apy": 0.02691,
       "url": "https://defillama.com/yields/pool/36a9ea28-7bf9-4d5b-9a5b-301e0f9b38f0"
@@ -1792,7 +1760,7 @@
     {
       "protocol": "dforce",
       "symbol": "ETH",
-      "tvlUsd": 73968,
+      "tvlUsd": 74562,
       "base_apy": 0.03465,
       "net_apy": 0.02415,
       "url": "https://defillama.com/yields/pool/1b9f51a5-7202-488a-a890-ed9c4a53788d"
@@ -1800,7 +1768,7 @@
     {
       "protocol": "impermax-v3",
       "symbol": "WETH",
-      "tvlUsd": 21049,
+      "tvlUsd": 21178,
       "base_apy": 0.03309,
       "net_apy": 0.02259,
       "url": "https://defillama.com/yields/pool/273ab7ec-a4c6-42af-a5c8-874de3b32cfe"
@@ -1808,15 +1776,15 @@
     {
       "protocol": "compound-v2",
       "symbol": "WETH",
-      "tvlUsd": 99801744,
-      "base_apy": 0.03059,
-      "net_apy": 0.02009,
+      "tvlUsd": 100269934,
+      "base_apy": 0.03058,
+      "net_apy": 0.02008,
       "url": "https://defillama.com/yields/pool/1e5da7c6-59bb-49bd-9f97-4f4fceeffad4"
     },
     {
       "protocol": "hop-protocol",
       "symbol": "ETH",
-      "tvlUsd": 85914,
+      "tvlUsd": 86524,
       "base_apy": 0.0261,
       "net_apy": 0.0156,
       "url": "https://defillama.com/yields/pool/18e32e33-6024-458b-aeb6-498e3bbaaec5"
@@ -1824,7 +1792,7 @@
     {
       "protocol": "apeswap-lending",
       "symbol": "ETH",
-      "tvlUsd": 52864,
+      "tvlUsd": 53100,
       "base_apy": 0.02552,
       "net_apy": 0.01502,
       "url": "https://defillama.com/yields/pool/1216809b-6b80-420c-a936-e7e2928c5dc0"
@@ -1833,14 +1801,14 @@
       "protocol": "bancor-v3",
       "symbol": "ETH",
       "tvlUsd": 28873892,
-      "base_apy": 0.02208,
-      "net_apy": 0.01158,
+      "base_apy": 0.02206,
+      "net_apy": 0.01156,
       "url": "https://defillama.com/yields/pool/37dcaa36-0839-4a8c-96a3-fac2bb31138a"
     },
     {
       "protocol": "hop-protocol",
       "symbol": "ETH",
-      "tvlUsd": 335236,
+      "tvlUsd": 337642,
       "base_apy": 0.02104,
       "net_apy": 0.01054,
       "url": "https://defillama.com/yields/pool/ea04bbd8-43b8-488c-9afd-c0bb7191b3de"
@@ -1848,15 +1816,15 @@
     {
       "protocol": "navi-lending",
       "symbol": "WETH",
-      "tvlUsd": 2271939,
-      "base_apy": 0.02096,
-      "net_apy": 0.01046,
+      "tvlUsd": 2280383,
+      "base_apy": 0.02097,
+      "net_apy": 0.01047,
       "url": "https://defillama.com/yields/pool/57d223b6-3256-4c84-887d-4f9897aebf10"
     },
     {
       "protocol": "hop-protocol",
       "symbol": "ETH",
-      "tvlUsd": 664055,
+      "tvlUsd": 659867,
       "base_apy": 0.0208,
       "net_apy": 0.0103,
       "url": "https://defillama.com/yields/pool/3f512ac9-5ea8-4971-b134-c3efaec910c8"
@@ -1864,7 +1832,7 @@
     {
       "protocol": "granary-finance",
       "symbol": "WETH",
-      "tvlUsd": 155992,
+      "tvlUsd": 156386,
       "base_apy": 0.01289,
       "net_apy": 0.00239,
       "url": "https://defillama.com/yields/pool/af79782b-9ebf-4b61-8473-6fa6f2ed6675"
@@ -1880,7 +1848,7 @@
     {
       "protocol": "justlend",
       "symbol": "ETH",
-      "tvlUsd": 1554161406,
+      "tvlUsd": 1527380219,
       "base_apy": 0.00015,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/ae255d3e-5f02-4edd-aab3-ba43eead3a06"
@@ -1888,7 +1856,7 @@
     {
       "protocol": "sky-lending",
       "symbol": "WETH",
-      "tvlUsd": 1103215367,
+      "tvlUsd": 1108048888,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/51d2f8d4-1fb5-4f6b-938b-e9cd17ca1ceb"
@@ -1896,7 +1864,7 @@
     {
       "protocol": "sky-lending",
       "symbol": "WETH",
-      "tvlUsd": 809974496,
+      "tvlUsd": 813221948,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/54600482-cfb9-4dd9-a73b-342cffd4644a"
@@ -1904,7 +1872,7 @@
     {
       "protocol": "liquity-v1",
       "symbol": "ETH",
-      "tvlUsd": 255676407,
+      "tvlUsd": 255370803,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/ddd25534-e3d5-4e4e-9b99-d3102323ac61"
@@ -1912,7 +1880,7 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 143641872,
+      "tvlUsd": 144250077,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/072f6554-daa7-4708-80ba-371b896a89db"
@@ -1920,7 +1888,7 @@
     {
       "protocol": "crvusd",
       "symbol": "WETH",
-      "tvlUsd": 53134736,
+      "tvlUsd": 53268157,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/fd9e9a70-84fe-43fc-a76b-d3efcd0ead10"
@@ -1928,7 +1896,7 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 40768794,
+      "tvlUsd": 41198712,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/94657e4e-5345-48f0-9132-f7a709e2021e"
@@ -1936,7 +1904,7 @@
     {
       "protocol": "nodedao",
       "symbol": "ETH",
-      "tvlUsd": 40649820,
+      "tvlUsd": 40856337,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/22e390ef-5f59-4194-b1d5-e1daf818b7f8"
@@ -1944,7 +1912,7 @@
     {
       "protocol": "sky-lending",
       "symbol": "WETH",
-      "tvlUsd": 22413893,
+      "tvlUsd": 22512096,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/44c94cb2-8af3-4b7a-8cb5-0784ddcf3471"
@@ -1952,7 +1920,7 @@
     {
       "protocol": "liquity-v2",
       "symbol": "ETH",
-      "tvlUsd": 19251239,
+      "tvlUsd": 19657616,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/2c20c54c-f42d-4fb0-b474-28dad8f7b1b4"
@@ -1960,15 +1928,15 @@
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 12877730,
-      "base_apy": 0.00239,
+      "tvlUsd": 12921153,
+      "base_apy": 0.00245,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/8a0ed79f-2471-4092-b756-1e2e6daaf28d"
     },
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 10904535,
+      "tvlUsd": 11267343,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/0e289cf3-fee2-43fc-b387-ae7a20cfaf07"
@@ -1976,7 +1944,7 @@
     {
       "protocol": "maxapy",
       "symbol": "WETH",
-      "tvlUsd": 8762520,
+      "tvlUsd": 8581812,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/24414a78-de80-4923-a1f0-461dce726fdf"
@@ -1984,7 +1952,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 7606277,
+      "tvlUsd": 7894640,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/660e240a-ab18-43af-9d24-0245828f903f"
@@ -1992,7 +1960,7 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 7474004,
+      "tvlUsd": 7218562,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/4e7fd7a4-4f10-421a-8ba0-0531b105bddb"
@@ -2000,7 +1968,7 @@
     {
       "protocol": "tectonic",
       "symbol": "WETH",
-      "tvlUsd": 7047995,
+      "tvlUsd": 7086436,
       "base_apy": 0.00473,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/cb0760b3-ab98-4b76-bbb4-d466f351dc3d"
@@ -2008,15 +1976,15 @@
     {
       "protocol": "aave-v3",
       "symbol": "WETH",
-      "tvlUsd": 6661885,
-      "base_apy": 0.00526,
+      "tvlUsd": 6705016,
+      "base_apy": 0.00489,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/5335b797-b623-4ed1-a492-880cbabb053a"
     },
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 5955031,
+      "tvlUsd": 6020586,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/d83facac-3757-4b19-a84c-f3c0850dfe2a"
@@ -2024,7 +1992,7 @@
     {
       "protocol": "merkl",
       "symbol": "WETH",
-      "tvlUsd": 5154168,
+      "tvlUsd": 5226720,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/2d22a20e-90d8-4c34-93bc-aad0c2421bfb"
@@ -2032,7 +2000,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 3270740,
+      "tvlUsd": 3226086,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/fec616a8-eab0-4994-8ee5-8d1fea9c68c3"
@@ -2040,7 +2008,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 3035157,
+      "tvlUsd": 2963846,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/5ef2ad32-5519-42c5-bfe0-4d43736e82b7"
@@ -2048,31 +2016,15 @@
     {
       "protocol": "termmax",
       "symbol": "WETH",
-      "tvlUsd": 2580760,
+      "tvlUsd": 2553491,
       "base_apy": 3e-05,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/7fd54ab1-db37-40c6-a8c2-8ef11f631fea"
     },
     {
-      "protocol": "merkl",
-      "symbol": "WETH",
-      "tvlUsd": 2222945,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/7ddaf65d-3042-4486-84f4-9a43086d9d9f"
-    },
-    {
-      "protocol": "merkl",
-      "symbol": "WETH",
-      "tvlUsd": 2101668,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/da14c41b-8ffe-4827-99a9-ec4cd36b2860"
-    },
-    {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 1937771,
+      "tvlUsd": 2454480,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/b1bbfcb3-6af7-4511-8ec6-e1b3eacf4a74"
@@ -2080,7 +2032,23 @@
     {
       "protocol": "merkl",
       "symbol": "WETH",
-      "tvlUsd": 1322859,
+      "tvlUsd": 2243259,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/7ddaf65d-3042-4486-84f4-9a43086d9d9f"
+    },
+    {
+      "protocol": "merkl",
+      "symbol": "WETH",
+      "tvlUsd": 1938194,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/da14c41b-8ffe-4827-99a9-ec4cd36b2860"
+    },
+    {
+      "protocol": "merkl",
+      "symbol": "WETH",
+      "tvlUsd": 1341231,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/f7f7ca35-c9b8-4d90-b277-74daa577f8ad"
@@ -2088,55 +2056,7 @@
     {
       "protocol": "exactly",
       "symbol": "WETH",
-      "tvlUsd": 1174355,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/826e4d19-480b-496c-8cda-3936e30877b5"
-    },
-    {
-      "protocol": "exactly",
-      "symbol": "WETH",
-      "tvlUsd": 1174355,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/ee814e57-e982-40ff-afc9-ac09332c5e08"
-    },
-    {
-      "protocol": "exactly",
-      "symbol": "WETH",
-      "tvlUsd": 1174355,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/73669c4e-cddd-4e26-8905-b23c49db5880"
-    },
-    {
-      "protocol": "exactly",
-      "symbol": "WETH",
-      "tvlUsd": 1174355,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/4f84c4e5-b5e3-49d0-9f78-363435e573cc"
-    },
-    {
-      "protocol": "exactly",
-      "symbol": "WETH",
-      "tvlUsd": 1174355,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/9f90eeea-29a2-41bf-9278-a25420d4e415"
-    },
-    {
-      "protocol": "exactly",
-      "symbol": "WETH",
-      "tvlUsd": 1174355,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/c2e66bfb-231b-49bd-821a-cadf98ab4304"
-    },
-    {
-      "protocol": "exactly",
-      "symbol": "WETH",
-      "tvlUsd": 1174355,
+      "tvlUsd": 1166536,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/fe3601ce-aef3-4f6d-a45b-a1087a07eda1"
@@ -2144,15 +2064,63 @@
     {
       "protocol": "exactly",
       "symbol": "WETH",
-      "tvlUsd": 1174355,
+      "tvlUsd": 1166536,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/30913a26-cdd5-40d5-a6b3-2156e40ecb3f"
     },
     {
+      "protocol": "exactly",
+      "symbol": "WETH",
+      "tvlUsd": 1166536,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/826e4d19-480b-496c-8cda-3936e30877b5"
+    },
+    {
+      "protocol": "exactly",
+      "symbol": "WETH",
+      "tvlUsd": 1166536,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/ee814e57-e982-40ff-afc9-ac09332c5e08"
+    },
+    {
+      "protocol": "exactly",
+      "symbol": "WETH",
+      "tvlUsd": 1166536,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/73669c4e-cddd-4e26-8905-b23c49db5880"
+    },
+    {
+      "protocol": "exactly",
+      "symbol": "WETH",
+      "tvlUsd": 1166536,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/4f84c4e5-b5e3-49d0-9f78-363435e573cc"
+    },
+    {
+      "protocol": "exactly",
+      "symbol": "WETH",
+      "tvlUsd": 1166536,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/9f90eeea-29a2-41bf-9278-a25420d4e415"
+    },
+    {
+      "protocol": "exactly",
+      "symbol": "WETH",
+      "tvlUsd": 1166536,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/c2e66bfb-231b-49bd-821a-cadf98ab4304"
+    },
+    {
       "protocol": "pando-leaf",
       "symbol": "ETH",
-      "tvlUsd": 1081355,
+      "tvlUsd": 1070559,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/82aba7fa-d7ed-496d-9b8d-35f1658113c5"
@@ -2160,7 +2128,7 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 1045885,
+      "tvlUsd": 1039624,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/63f78424-8029-4c6a-b19c-d81143a77550"
@@ -2168,7 +2136,7 @@
     {
       "protocol": "hop-protocol",
       "symbol": "ETH",
-      "tvlUsd": 856474,
+      "tvlUsd": 860440,
       "base_apy": 0.00213,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/720f17a2-ea73-49f0-b7ee-7be3f471479b"
@@ -2176,7 +2144,7 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 841042,
+      "tvlUsd": 847078,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/86136467-14aa-4b35-b794-b3322902dc5b"
@@ -2184,7 +2152,7 @@
     {
       "protocol": "frankencoin",
       "symbol": "WETH",
-      "tvlUsd": 789286,
+      "tvlUsd": 793896,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/e1096756-d073-43d5-8648-24f785f0d2c1"
@@ -2192,23 +2160,23 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 758291,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/cc9d790f-e618-447a-8552-239fc7f6b58c"
-    },
-    {
-      "protocol": "compound-v3",
-      "symbol": "WETH",
-      "tvlUsd": 750758,
+      "tvlUsd": 756146,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/87188e84-4b9c-48d7-9512-75a522e1727f"
     },
     {
+      "protocol": "compound-v3",
+      "symbol": "WETH",
+      "tvlUsd": 753511,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/cc9d790f-e618-447a-8552-239fc7f6b58c"
+    },
+    {
       "protocol": "harvest-finance",
       "symbol": "ETH",
-      "tvlUsd": 693146,
+      "tvlUsd": 683691,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/aa66be71-a18c-457d-a53f-8987031470c6"
@@ -2216,7 +2184,7 @@
     {
       "protocol": "hop-protocol",
       "symbol": "ETH",
-      "tvlUsd": 581359,
+      "tvlUsd": 583615,
       "base_apy": 3e-05,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/7302b5b7-6f2f-4aea-99fb-2e15de16ff9b"
@@ -2232,7 +2200,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 487994,
+      "tvlUsd": 481757,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/ffa5a86a-f98b-4b87-82bc-9611786688fc"
@@ -2240,7 +2208,7 @@
     {
       "protocol": "alpaca-finance-2.0",
       "symbol": "ETH",
-      "tvlUsd": 423606,
+      "tvlUsd": 425502,
       "base_apy": 0.00299,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/5d590252-7f29-4674-8790-bf596c3a409a"
@@ -2248,7 +2216,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 331832,
+      "tvlUsd": 327591,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/f766ee0a-39f7-41f2-a81f-dc638f040634"
@@ -2256,7 +2224,7 @@
     {
       "protocol": "frankencoin",
       "symbol": "WETH",
-      "tvlUsd": 284143,
+      "tvlUsd": 285802,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/beba7512-f154-40a6-9756-efb9bb488914"
@@ -2264,7 +2232,7 @@
     {
       "protocol": "merkl",
       "symbol": "WETH",
-      "tvlUsd": 247941,
+      "tvlUsd": 247117,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/b1672f1a-c9c4-4f8b-bf20-bef57d998186"
@@ -2272,7 +2240,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 227163,
+      "tvlUsd": 223901,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/7f06b090-52fb-48ab-bfee-1994a96ca9b6"
@@ -2280,7 +2248,7 @@
     {
       "protocol": "teller",
       "symbol": "WETH",
-      "tvlUsd": 220087,
+      "tvlUsd": 221037,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/681cf657-ee4d-4b91-9768-bb81cd37aa0b"
@@ -2296,7 +2264,7 @@
     {
       "protocol": "qidao",
       "symbol": "WETH",
-      "tvlUsd": 203818,
+      "tvlUsd": 204711,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/d9c4ad2f-cf9c-4fd5-8bbd-1b7e0a0b2e93"
@@ -2304,7 +2272,7 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 170877,
+      "tvlUsd": 172668,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/15c8e294-d3e3-4006-99d3-fd2ee46a4544"
@@ -2312,7 +2280,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 160977,
+      "tvlUsd": 166072,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/352150ac-9766-443d-a513-e4d7c18f988d"
@@ -2320,7 +2288,7 @@
     {
       "protocol": "silo-v2",
       "symbol": "WETH",
-      "tvlUsd": 149220,
+      "tvlUsd": 149425,
       "base_apy": 0.00745,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/ee094b57-c855-46c8-92c8-572805f6bb7e"
@@ -2328,7 +2296,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 135559,
+      "tvlUsd": 137342,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/7e903803-b675-404a-aa2c-6b6025158e4c"
@@ -2344,7 +2312,7 @@
     {
       "protocol": "compound-v3",
       "symbol": "WETH",
-      "tvlUsd": 115112,
+      "tvlUsd": 115733,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/5fe31d6b-1629-439c-a9ed-620abae1a329"
@@ -2352,7 +2320,7 @@
     {
       "protocol": "merkl",
       "symbol": "WETH",
-      "tvlUsd": 94272,
+      "tvlUsd": 95133,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/32c4573c-872f-4d85-b6d8-c2d1b7c6769c"
@@ -2368,7 +2336,7 @@
     {
       "protocol": "hop-protocol",
       "symbol": "ETH",
-      "tvlUsd": 75585,
+      "tvlUsd": 76076,
       "base_apy": 0.00101,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/c274b30a-6106-44bd-b7a8-d24578bc24dc"
@@ -2376,7 +2344,7 @@
     {
       "protocol": "lista-cdp",
       "symbol": "ETH",
-      "tvlUsd": 71716,
+      "tvlUsd": 71510,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/e9166913-ea37-4b7b-b8a4-ad025e3650e3"
@@ -2390,33 +2358,41 @@
       "url": "https://defillama.com/yields/pool/e93079db-2091-432d-8c11-99611c6c1a88"
     },
     {
-      "protocol": "compound-v3",
-      "symbol": "WETH",
-      "tvlUsd": 63223,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/75108987-6374-4e2b-8de5-56181758e532"
-    },
-    {
       "protocol": "hop-protocol",
       "symbol": "ETH",
-      "tvlUsd": 63136,
+      "tvlUsd": 63501,
       "base_apy": 0.00612,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/6251f2f7-2554-4589-8b8f-b5c070bb24a2"
     },
     {
+      "protocol": "compound-v3",
+      "symbol": "WETH",
+      "tvlUsd": 63466,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/75108987-6374-4e2b-8de5-56181758e532"
+    },
+    {
       "protocol": "granary-finance",
       "symbol": "ETH",
-      "tvlUsd": 57082,
+      "tvlUsd": 57310,
       "base_apy": 0.00395,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/1eb2d051-c546-4916-b424-83cab080c643"
     },
     {
+      "protocol": "troves",
+      "symbol": "ETH",
+      "tvlUsd": 51895,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/ce7296fb-bf96-452d-bdd6-5d6b81aa463e"
+    },
+    {
       "protocol": "inverse-finance-firm",
       "symbol": "WETH",
-      "tvlUsd": 50763,
+      "tvlUsd": 51051,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/dcbc0158-f4d3-4a8f-afeb-74b1e1b22a0c"
@@ -2424,7 +2400,7 @@
     {
       "protocol": "woofi-earn",
       "symbol": "ETH",
-      "tvlUsd": 44999,
+      "tvlUsd": 44991,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/0ad30211-dbba-474b-9bd5-b2d642b966f5"
@@ -2456,7 +2432,7 @@
     {
       "protocol": "teller",
       "symbol": "WETH",
-      "tvlUsd": 33812,
+      "tvlUsd": 33960,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/68950810-c1bd-4101-ad2e-8750c99e4f7a"
@@ -2464,7 +2440,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 33383,
+      "tvlUsd": 32957,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/29810e07-9314-4c08-8c79-f4997843b928"
@@ -2472,7 +2448,7 @@
     {
       "protocol": "teller",
       "symbol": "WETH",
-      "tvlUsd": 26482,
+      "tvlUsd": 26426,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/71f2706c-4fe0-44d1-8db3-bf85379bb185"
@@ -2488,7 +2464,7 @@
     {
       "protocol": "sturdy-v2",
       "symbol": "WETH",
-      "tvlUsd": 21017,
+      "tvlUsd": 21110,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/7c14b737-cdbb-425e-b7c1-e9e5bd7f020f"
@@ -2504,7 +2480,7 @@
     {
       "protocol": "teller",
       "symbol": "WETH",
-      "tvlUsd": 20535,
+      "tvlUsd": 20625,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/78ac202f-85cc-4fac-9f53-8b577c114764"
@@ -2512,7 +2488,7 @@
     {
       "protocol": "aloe",
       "symbol": "WETH",
-      "tvlUsd": 16949,
+      "tvlUsd": 17052,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/6a0c6143-3f0c-427e-8db6-6277a566e724"
@@ -2520,7 +2496,7 @@
     {
       "protocol": "teller",
       "symbol": "WETH",
-      "tvlUsd": 16186,
+      "tvlUsd": 16152,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/ea83fcb2-ace8-457d-867b-2ea7611413ee"
@@ -2528,7 +2504,7 @@
     {
       "protocol": "teller",
       "symbol": "WETH",
-      "tvlUsd": 15788,
+      "tvlUsd": 15857,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/8b2fbf72-006e-42b4-a6a6-22343e6b31a8"
@@ -2536,7 +2512,7 @@
     {
       "protocol": "termmax",
       "symbol": "WETH",
-      "tvlUsd": 14983,
+      "tvlUsd": 14872,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/aebf3315-ca79-4cd5-8c93-b39a3b6887d5"
@@ -2544,7 +2520,7 @@
     {
       "protocol": "silo-v2",
       "symbol": "WETH",
-      "tvlUsd": 14145,
+      "tvlUsd": 14165,
       "base_apy": 0.00991,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/338ad779-6058-4d58-9655-dd02ba5e1f61"
@@ -2552,7 +2528,7 @@
     {
       "protocol": "euler-v2",
       "symbol": "WETH",
-      "tvlUsd": 13747,
+      "tvlUsd": 13819,
       "base_apy": 9e-05,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/f2f4a679-29be-47d0-82c7-ed1442de163a"
@@ -2560,31 +2536,31 @@
     {
       "protocol": "yearn-finance",
       "symbol": "WETH",
-      "tvlUsd": 13712,
+      "tvlUsd": 13532,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/30c09ef8-d1e6-4bf5-95b8-8dff2c9b9266"
     },
     {
-      "protocol": "frankencoin",
-      "symbol": "WETH",
-      "tvlUsd": 12629,
-      "base_apy": 0.0,
-      "net_apy": 0.0,
-      "url": "https://defillama.com/yields/pool/446d1188-7386-4f54-88b9-ebb6b60f6017"
-    },
-    {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 12554,
+      "tvlUsd": 12763,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/3061ffb3-8d84-4f61-9f9c-cf0163a7439f"
     },
     {
+      "protocol": "frankencoin",
+      "symbol": "WETH",
+      "tvlUsd": 12702,
+      "base_apy": 0.0,
+      "net_apy": 0.0,
+      "url": "https://defillama.com/yields/pool/446d1188-7386-4f54-88b9-ebb6b60f6017"
+    },
+    {
       "protocol": "impermax-v2",
       "symbol": "WETH",
-      "tvlUsd": 12279,
+      "tvlUsd": 12367,
       "base_apy": 2e-05,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/d32d4503-6ccb-44e7-bc50-9b7ebfd9105e"
@@ -2592,7 +2568,7 @@
     {
       "protocol": "impermax-v2",
       "symbol": "WETH",
-      "tvlUsd": 11692,
+      "tvlUsd": 11755,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/9a130822-48da-482f-a6d5-2327afe7cbc1"
@@ -2600,7 +2576,7 @@
     {
       "protocol": "morpho-v1",
       "symbol": "WETH",
-      "tvlUsd": 11499,
+      "tvlUsd": 11691,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/60808795-36b6-4cc1-9f5b-7fe23ebe5f90"
@@ -2608,7 +2584,7 @@
     {
       "protocol": "impermax-v3",
       "symbol": "WETH",
-      "tvlUsd": 10337,
+      "tvlUsd": 10400,
       "base_apy": 0.00075,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/7bda2c9d-38bc-4665-9914-8bc237099b68"
@@ -2616,7 +2592,7 @@
     {
       "protocol": "impermax-v2",
       "symbol": "WETH",
-      "tvlUsd": 10156,
+      "tvlUsd": 10229,
       "base_apy": 0.0,
       "net_apy": 0.0,
       "url": "https://defillama.com/yields/pool/97075e4c-8b3e-415f-a094-d350a33e59f4"

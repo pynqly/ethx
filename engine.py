@@ -3,9 +3,14 @@
 import requests, json, os, sys
 import logging
 from datetime import datetime, timezone
-from backend.config import ETHERSCAN_API_KEY, DEFAULT_ETH_AMOUNT, ETH_PRICE_USD, GAS_UNITS_REBALANCE
 
-
+try:
+    from backend.config import ETHERSCAN_API_KEY, DEFAULT_ETH_AMOUNT, ETH_PRICE_USD, GAS_UNITS_REBALANCE
+except ImportError:
+    ETHERSCAN_API_KEY = os.environ.get("ETHERSCAN_API_KEY", "")
+    DEFAULT_ETH_AMOUNT = float(os.environ.get("DEFAULT_ETH_AMOUNT", "1.0"))
+    ETH_PRICE_USD = float(os.environ.get("ETH_PRICE_USD", "1600.0"))
+    GAS_UNITS_REBALANCE = int(os.environ.get("GAS_UNITS_REBALANCE", "210000"))
 
 # Configure logging
 logging.basicConfig(

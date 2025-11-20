@@ -20,17 +20,11 @@ By making this tool open and transparent, we aim to help small holders earn like
 💜 Support the Project
 
 This extension runs on open infrastructure — no ads, no telemetry, no fees.
-If it helps you find better staking returns or save gas fees, consider supporting future development with a small donation.
+If it helps you find better staking returns or save gas fees, consider supporting future development with a rating on Chrome web store. 
 
-Donate 0.01 ETH:
-0x207eE0de9c57D41BD1a6F9F00aC4daFa9e764690
-
-Your contribution helps cover:
-
-Server and API costs for live yield data
 
 Integration of new DeFi protocols
 
 Open-source transparency tools for ETH holders worldwide
 
-Every fraction of ETH helps keep this optimizer open, independent, and improving
+
